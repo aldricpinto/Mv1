@@ -1,0 +1,178 @@
+@import "tailwindcss";
+
+:root {
+  /* Retro-Futuristic / Industrial Palette (Dark Mode Default) */
+  --background: #2a2e24;
+  /* Muted Olive Green */
+  --foreground: #e0e0e0;
+  /* Off-white */
+
+  --retro-olive: #2a2e24;
+  --retro-olive-dark: #1a1d16;
+  --retro-neon: #ccff00;
+  /* Neon Green */
+  --retro-orange: #ff4500;
+  /* Industrial Orange */
+  --retro-surface: #000000;
+  /* Component background */
+  --retro-text-contrast: #ffffff;
+  /* Text on neon */
+}
+
+[data-theme='light'] {
+  /* Retro Clean Room Palette (Light Mode) */
+  --background: #f0f0e8;
+  /* Beige/Off-white */
+  --foreground: #1a1d16;
+  /* Dark Olive/Black */
+
+  --retro-olive: #e0e0d0;
+  /* Light Olive */
+  --retro-olive-dark: #c0c0b0;
+  /* Slightly darker */
+  --retro-neon: #4a5e0b;
+  /* Dark Olive Green for text */
+  --retro-orange: #ff4500;
+  /* Keep Orange */
+  --retro-grid: rgba(42, 46, 36, 0.1);
+  /* Dark grid */
+
+  --retro-surface: #ffffff;
+  --retro-text-contrast: #000000;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-retro-olive: var(--retro-olive);
+  --color-retro-olive-dark: var(--retro-olive-dark);
+  --color-retro-neon: var(--retro-neon);
+  --color-retro-orange: var(--retro-orange);
+  --color-retro-surface: var(--retro-surface);
+  --color-retro-text-contrast: var(--retro-text-contrast);
+
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+
+  @keyframes scanline {
+    0% {
+      transform: translateY(-100%);
+    }
+
+    100% {
+      transform: translateY(100%);
+    }
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), monospace;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-image:
+    linear-gradient(var(--retro-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--retro-grid) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--retro-olive-dark);
+  border-left: 1px solid var(--retro-grid);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--retro-neon);
+  border: 2px solid var(--retro-olive-dark);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b3e600;
+}
+
+/* Utilities */
+.glass-panel {
+  background: rgba(42, 46, 36, 0.9);
+  border: 1px solid var(--retro-neon);
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+}
+
+.btn-primary {
+  background: var(--retro-orange);
+  color: black;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background: #ff571a;
+  transform: translate(-2px, -2px);
+  box-shadow: 4px 4px 0px var(--retro-neon);
+}
+
+.btn-primary:active {
+  transform: translate(0, 0);
+  box-shadow: none;
+}
+
+.btn-secondary {
+  background: transparent;
+  border: 1px solid var(--retro-neon);
+  color: var(--retro-neon);
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  padding: 0.75rem 1.5rem;
+  transition: all 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background: var(--retro-neon);
+  color: var(--retro-olive);
+}
+
+.text-distorted {
+  font-weight: 900;
+  transform: scaleY(1.5);
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+}
+
+.text-technical {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--retro-neon);
+}
+
+.border-technical {
+  border: 1px dashed var(--retro-neon);
+}
+
+/* Marquee Animation */
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-33.333%);
+  }
+}

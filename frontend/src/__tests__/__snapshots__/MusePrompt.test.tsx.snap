@@ -1,0 +1,65 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PromptForm > matches snapshot 1`] = `
+<div>
+  <form
+    animate="[object Object]"
+    class="rounded-3xl border border-white/10 bg-zinc-950/70 p-8"
+    initial="[object Object]"
+  >
+    <p
+      class="text-sm uppercase tracking-[0.4em] text-zinc-400"
+    >
+      Prompt
+    </p>
+    <h2
+      class="mt-3 text-3xl font-semibold text-white"
+    >
+      What mood are we soundtracking?
+    </h2>
+    <textarea
+      class="mt-6 h-32 w-full resize-none rounded-2xl border border-white/5 bg-black/40 p-4 text-lg text-white placeholder:text-zinc-500 focus:border-white/40 focus:outline-none"
+      placeholder="I want nostalgic textures that evolve into high-energy night drives..."
+    />
+    <div
+      class="mt-4 flex flex-wrap gap-3"
+    >
+      <button
+        class="btn-pill bg-white/10 text-white"
+        type="button"
+      >
+        Slow bloom
+      </button>
+      <button
+        class="btn-pill bg-white/10 text-white"
+        type="button"
+      >
+        Straight fire
+      </button>
+      <button
+        class="btn-pill bg-white/10 text-white"
+        type="button"
+      >
+        Calm descent
+      </button>
+    </div>
+    <div
+      class="mt-6 flex gap-4"
+    >
+      <button
+        class="btn-ripple flex-1 rounded-full bg-white/90 py-3 text-base font-semibold text-black disabled:cursor-not-allowed disabled:bg-white/20"
+        type="button"
+      >
+        Generate
+      </button>
+      <button
+        aria-label="Voice prompt"
+        class="btn-ripple flex h-12 w-12 items-center justify-center rounded-full border border-white/20 bg-white/5"
+        type="button"
+      >
+        ???
+      </button>
+    </div>
+  </form>
+</div>
+`;
