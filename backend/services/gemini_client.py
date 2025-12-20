@@ -96,15 +96,107 @@ class GeminiClient:
             **kwargs,
         )
 
+    async def analyze_mood_stream(self, prompt: str):
+        system_prompt = (
+            "You are The Plug, an AI DJ. I need you to generate a playlist based on the user's request. "
+            "First, acknowledge the vibe and talk to the user directly in a cool, confident, empathetic tone (max 2 sentences). "
+            "Then, output a special separator '###JSON_SEPARATOR###' followed immediately by a valid JSON object. "
+            "The JSON object must have: primary_mood, secondary_mood, playlist_title (creative, 2-4 words), "
+            "keywords (list of max 6), narrative (the same text you spoke), and recommended_genres (max 4). "
+        )
+        
+        # We need to run the blocking sync generator in a thread
+        # But we need to yield chunks.
+        # Solution: Use an iterator wrapper that runs `next()` in a thread
+        
+        try:
+            response_stream = await asyncio.to_thread(
+                self._client.models.generate_content_stream,
+                model=self.settings.gemini_model,
+                contents=[{"role": "user", "parts": [{"text": prompt}]}],
+                config={"system_instruction": system_prompt}
+            )
+        except Exception as e:
+            logger.error("Failed to start Gemini stream: %s", e)
+            yield {"type": "error", "data": str(e)}
+            return
+
+        iterator = iter(response_stream)
+        
+        def safe_next():
+            try:
+                return next(iterator)
+            except StopIteration:
+                return None
+        
+        json_buffer = ""
+        collecting_json = False
+        
+        while True:
+            try:
+                chunk = await asyncio.to_thread(safe_next)
+                if chunk is None:
+                    break
+                    
+                text = chunk.text or ""
+                
+                if "###JSON_SEPARATOR###" in text:
+                    parts = text.split("###JSON_SEPARATOR###")
+                    narrative = parts[0]
+                    if narrative:
+                         yield {"type": "narrative_chunk", "text": narrative}
+                    
+                    collecting_json = True
+                    # Append the rest to json buffer
+                    json_buffer += parts[1]
+                elif collecting_json:
+                    json_buffer += text
+                else:
+                    # Pure narrative chunk
+                    yield {"type": "narrative_chunk", "text": text}
+                    
+            except Exception as e:
+                logger.error("Error reading from Gemini stream: %s", e)
+                break
+        
+        if json_buffer:
+            try:
+                parsed = self._parse_json_text_raw(json_buffer)
+                if parsed:
+                    yield {"type": "json_full", "data": parsed}
+            except Exception as e:
+                logger.error("Failed to parse streamed JSON: %s", e)
+
+    def _parse_json_text_raw(self, text: str) -> Dict[str, Any]:
+        text = text.strip()
+        # Remove potential markdown formatting
+        if text.startswith("```json"):
+            text = text[7:]
+        if text.startswith("```"):
+            text = text[3:]
+        if text.endswith("```"):
+            text = text[:-3]
+        text = text.strip()
+        
+        if not text:
+            return {}
+            
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            # simple heuristic repair
+            start = text.find("{")
+            end = text.rfind("}")
+            if start != -1 and end != -1:
+                return json.loads(text[start : end + 1])
+            raise
+
     def _parse_json_text(self, response: Any) -> Dict[str, Any]:
         text = (response.text or "").strip()
         if not text:
             raise ValueError("Empty response from Gemini")
-        try:
-            return json.loads(text)
-        except json.JSONDecodeError:
-            start = text.find("{")
-            end = text.rfind("}")
-            if start == -1 or end == -1:
-                raise
-            return json.loads(text[start : end + 1])
+        return self._parse_json_text_raw(text)
+
+    async def close(self):
+        """Cleanup resources."""
+        pass

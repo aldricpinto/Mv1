@@ -109,7 +109,9 @@ export async function streamPlaylist(
   });
 
   if (!response.ok) {
-    throw new Error("Failed to start stream");
+    const errorText = await response.text();
+    console.error("Stream initialization failed:", errorText);
+    throw new Error(errorText || "Failed to start stream");
   }
 
   const reader = response.body?.getReader();

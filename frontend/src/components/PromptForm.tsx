@@ -1,36 +1,24 @@
 "use client";
 
 import { useState, useRef } from "react";
-import { requestPlaylist } from "@/lib/api";
 
 type Props = {
-  onSubmit: (playlist: any) => void;
+  onSubmit: (prompt: string) => void;
   userId: string;
   isLoading?: boolean;
 };
 
 export function PromptForm({ onSubmit, userId, isLoading = false }: Props) {
   const [prompt, setPrompt] = useState("");
-  const [loading, setLoading] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const recognitionRef = useRef<any>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!prompt.trim() || loading) return;
+    if (!prompt.trim() || isLoading) return;
 
-    setLoading(true);
-    try {
-      // Use the centralized API function
-      const data = await requestPlaylist(prompt, "browser-device-id", undefined, userId);
-      onSubmit(data);
-      setPrompt("");
-    } catch (err) {
-      console.error(err);
-      alert("Error generating playlist");
-    } finally {
-      setLoading(false);
-    }
+    onSubmit(prompt);
+    setPrompt("");
   };
 
   const toggleVoice = () => {
@@ -86,7 +74,7 @@ export function PromptForm({ onSubmit, userId, isLoading = false }: Props) {
           </button>
 
           {/* Processing Overlay */}
-          {loading && (
+          {isLoading && (
             <div className="absolute inset-0 bg-retro-neon/10 z-10 overflow-hidden pointer-events-none">
               <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-transparent via-retro-neon/20 to-transparent -translate-x-full animate-[shimmer_1.5s_infinite]" />
               <div className="absolute bottom-0 left-0 w-full h-1 bg-retro-neon animate-pulse" />
@@ -98,19 +86,19 @@ export function PromptForm({ onSubmit, userId, isLoading = false }: Props) {
             type="text"
             value={prompt}
             onChange={(e) => setPrompt(e.target.value)}
-            placeholder={loading ? "ANALYZING AUDIO SPECTRUM..." : "TELL ME THE VIBE..."}
-            className={`flex-1 bg-transparent px-6 py-4 text-retro-neon placeholder-retro-neon/30 font-mono focus:outline-none uppercase tracking-wider transition-opacity ${loading ? 'opacity-50' : 'opacity-100'}`}
-            disabled={loading}
+            placeholder={isLoading ? "ANALYZING AUDIO SPECTRUM..." : "TELL ME THE VIBE..."}
+            className={`flex-1 bg-transparent px-6 py-4 text-retro-neon placeholder-retro-neon/30 font-mono focus:outline-none uppercase tracking-wider transition-opacity ${isLoading ? 'opacity-50' : 'opacity-100'}`}
+            disabled={isLoading}
           />
 
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={loading || isLoading || !prompt.trim()}
-            className={`bg-retro-neon text-black font-bold px-8 hover:bg-[#b3e600] disabled:opacity-80 disabled:cursor-not-allowed transition-all uppercase tracking-widest clip-path-slant ${loading || isLoading ? 'animate-pulse' : ''}`}
+            disabled={isLoading || !prompt.trim()}
+            className={`bg-retro-neon text-black font-bold px-8 hover:bg-[#b3e600] disabled:opacity-80 disabled:cursor-not-allowed transition-all uppercase tracking-widest clip-path-slant ${isLoading ? 'animate-pulse' : ''}`}
             style={{ clipPath: "polygon(10px 0, 100% 0, 100% 100%, 0 100%, 0 10px)" }}
           >
-            {loading || isLoading ? (
+            {isLoading ? (
               <span className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-black rounded-full animate-bounce" style={{ animationDelay: '0ms' }} />
                 <span className="w-2 h-2 bg-black rounded-full animate-bounce" style={{ animationDelay: '150ms' }} />

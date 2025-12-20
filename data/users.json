@@ -6,7 +6,7 @@
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocIiR5IBzNDuKvfuX-HeiLWuav6V37UBZjb4zBK4IoBe_vmXQ_Wb=s96-c",
     "joined_date": "2025-11-24T03:08:51.243375",
     "created_on": "2025-11-24T03:08:51.243375",
-    "updated_on": "2025-12-20T20:16:03.884311",
+    "updated_on": "2025-12-20T22:52:40.854243",
     "youtube_credentials": {
       "client_id": "353264128796-r09t9if4qsuufq0m04jbcg2ap4jila4a.apps.googleusercontent.com",
       "client_secret": "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",
@@ -22,6 +22,1275 @@
       "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube"
     },
     "history": [
+      {
+        "prompt": "matt redman",
+        "mood": {
+          "primary_mood": "Worshipful",
+          "secondary_mood": "Reflective",
+          "playlist_title": "Heart of Worship",
+          "keywords": [
+            "matt redman",
+            "worship",
+            "christian",
+            "spiritual",
+            "praise",
+            "devotional"
+          ],
+          "narrative": "Ah, you're seeking that profound connection, that spirit of worship that only true devotion can bring. Matt Redman's got the anthems, and I've got the mix to elevate your soul right where it needs to be.",
+          "recommended_genres": [
+            "Christian Worship",
+            "Contemporary Christian",
+            "Gospel",
+            "Acoustic Pop"
+          ]
+        },
+        "transitions": [
+          "Easing in with 3 Hours of Soaking in His Presence - William Augusto to set the worshipful tone.",
+          "Let us lift the room with 25 Yoruba Hymns - Wale Adebanjo.",
+          "Here comes your emotional anchor: Hits Of Immanuel Henry - Immanuel Henry.",
+          "We ramp the energy with In His Time - Maranatha! Music before landing on Christian Dance Music Vol. 1 (Continuous DJ Mix) - FreeG & Emasound."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Worshipful",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Reflective",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "3 Hours of Soaking in His Presence",
+            "artist": "William Augusto",
+            "video_id": "WAVO1_7cABU",
+            "duration": "3:13:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/DxmS4R8P5pS-O0K2_AG2Y1v1b35hAWQSLuutVeqeil9Wv45DflOGokUQKheTYcKxP3CgPw_-KGd-T_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "10,000 Reasons (Bless The Lord) (Live)",
+            "artist": "Matt Redman",
+            "video_id": "2KaHr_5U9Cg",
+            "duration": "5:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CS4CJ-Gd8yFT9bIenXDW9Xdt2z6J-TGapC-o8UweF2L_Efsq5D9ywsqszpZhOOQBtUgsQJ4K_D0AamjH=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Spontaneous Instrumental Worship",
+            "artist": "Deeper Heaven Music",
+            "video_id": "uDqOLqAJPqI",
+            "duration": "1:00:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/MZ4ROgiIvj57cJKT4U7rXepEgD0n0EDrM7ryHUBXsCZe3vWK17xdhMch9HGDDUgEOEAQCXqNHEfEJuwy=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Soaking in His Presence Yeshua (Instrumental Worship)",
+            "artist": "William Augusto",
+            "video_id": "4HkQtb5irO0",
+            "duration": "3:22:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/U3fhydBPP9hB8nZXTduCnBEe-GqT_CLChd_OoHNR59mRCbEAz7xpBAuFq38KqIxyOpYO3jf_fr2PqErP=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Non-Stop Power Praise",
+            "artist": "Umahi Praise Team",
+            "video_id": "Uf9t7g3i-s0",
+            "duration": "52:34",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QwAl3zwlifxEPeNDH84heIMC1dcZrPA0RHcaKIfgdHucxbNqKTEsGxV1F7sImFBsjTWnNjwbgusTjEJgKQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hits Of Immanuel Henry",
+            "artist": "Immanuel Henry",
+            "video_id": "fx1fd7SxlkE",
+            "duration": "47:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/hjpW1mNoukvGcBCZCuz1SCgRUllgexaOxVxQGhU-ZL-XUX8-eKWBgvIosAZVbh0J481jUAzC8q1zG4_Q=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Old Songs Medley: Hold Onto God's Unchanging Hand / I'm a Soldier / He's the Great Consolator / I Get Joy When I Think About It / By & By / All the Way / Yes, Lord / Just Another Day / I Feel Like Going On (Live)",
+            "artist": "Carlton Pearson",
+            "video_id": "spoSMJp_z20",
+            "duration": "23:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/m0Dma72sY9SIZOczwpqrl7UTLOBJcakagMr59TgAjQQnAxaN0oUu3Jj0zlGLZYlr_JL5dhmw0yDL0PA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "25 Yoruba Hymns",
+            "artist": "Wale Adebanjo",
+            "video_id": "AYSVJb0-abc",
+            "duration": "28:19",
+            "thumbnail_url": "https://lh3.googleusercontent.com/cJiUtKwM2FhmViX6UsPvs5WXj6YFf-Sjx6bZ_vrKx71XoYs1dl4HrKmvIGsmMzpXaWITjm1DBEh0csZ3=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "10,000 Reasons (Bless the Lord)",
+            "artist": "Matt Redman",
+            "video_id": "MstpgDV5O_M",
+            "duration": "5:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Y1d3ZOGTyh4cbwOYSjKI-97ZhlqDpahKzqAtJaEU6n9nK0a4z1RA8qp3ssWGCju-rWeaZr9agdmtQVyq=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Unbroken Praise (Live)",
+            "artist": "Matt Redman",
+            "video_id": "ce9JCiVtk9c",
+            "duration": "5:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QzspD59ApSKiaL9_3K6dWoGHTyAFlkSnPSQZVWPu1j86gFJdscXQa73gnIufX7WPYY3sb2HtoRUGXB4=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "The Praise is Yours (Live)",
+            "artist": "Matt Redman",
+            "video_id": "5JsTcwQuYjk",
+            "duration": "5:37",
+            "thumbnail_url": "https://lh3.googleusercontent.com/upd-dcOAF6YLslhPsBtxeKbDbqvVkN6-F4S-xtdr4DjRu_GuBbr9ZPQA9iRPhcmgk0INQeXeOlQ46z2c=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "My Worship",
+            "artist": "Phil Thompson",
+            "video_id": "NAniUTMH9kk",
+            "duration": "6:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/xG_z_G3tAP_rpQtJ8VTp3WPiuU_lDg5SpbW2sPaxQiKS7-Oed6xj6achekdnXxWzK0ofqBnkbiTmPVdt=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Unbroken Praise (Live)",
+            "artist": "Matt Redman",
+            "video_id": "atCVQ5VSTIY",
+            "duration": "5:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/j4wPU4xIItPPAhL5bF0jmCBlHEjUeZzc-zwBnzFqmipjBmaxhg-4EH_i9dARbu0fV0all46De8e3DI11HA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "In His Time",
+            "artist": "Maranatha! Music",
+            "video_id": "MV8P4422ZyI",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/gMysz3QXUjC_EHi7NmYLOCKVAG24AA-46tFflX8OZWQn8LgWbdt0_YxsF7GCv6SGRE2cssXoahasKf5F6w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Christian Dance Music Vol. 1 (Continuous DJ Mix)",
+            "artist": "FreeG & Emasound",
+            "video_id": "GKES9gHmUfc",
+            "duration": "1:08:51",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CHVcAaU3JxQL_rVx10OqZ8AOPt_UakZknq7IpdJxNWSvrI8k5aiQHrdDTIEQuRsHZGkGcphZGCyfge8z=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "ishq wala love",
+        "mood": {
+          "primary_mood": "Romantic",
+          "secondary_mood": "Dreamy",
+          "playlist_title": "Sweet Love Story",
+          "keywords": [
+            "Love",
+            "Romance",
+            "Bollywood",
+            "Dreamy",
+            "Sweet",
+            "Heartfelt"
+          ],
+          "narrative": "Ah, 'Ishq Wala Love,' I know exactly what you're feeling. Let's get lost in that sweet, cinematic romance.",
+          "recommended_genres": [
+            "Bollywood Pop",
+            "Indian Pop",
+            "Romantic Ballads",
+            "Pop"
+          ]
+        },
+        "transitions": [
+          "Easing in with Jaan Ban Gaye - Mithoon, Vishal Mishra & Asees Kaur to set the romantic tone.",
+          "Let us lift the room with Ik Mulaqaat - Meet Bros, Palak Muchhal, Altamash Faridi.",
+          "Here comes your emotional anchor: Forever and Ever and Ever (Movie: Saiyaara) - Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, John Stewart Eduri.",
+          "We ramp the energy with Aashiqui (The Love Theme) - Mithoon before landing on Muskurane (Romantic) - Jeet Gannguli, Arijit Singh, Rashmi Virag."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Romantic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Dreamy",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Jaan Ban Gaye",
+            "artist": "Mithoon, Vishal Mishra & Asees Kaur",
+            "video_id": "82P9aa28DoE",
+            "duration": "3:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/PhV-eLhx31KEWdnfkfHsSfH-gi4v3Qpfj2FZwU0xsesiLcMX2YwW08eGtSFQL1Pia7zkA_VKi-5-YiN5=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "AGAR TUM SAATH HO",
+            "artist": "Arijit Singh, Alka Yagnik",
+            "video_id": "FOA9iyxsW_A",
+            "duration": "5:42",
+            "thumbnail_url": "https://lh3.googleusercontent.com/AT2wfk1PvKjnHO7BzH2i2NkAvqRy_oZNEq48QGBlLJb51AuguCiR3mzp99X1uFdZezAkoSJ2WGjUU-HXZg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Deep Sleep Music: Deeper Relaxation",
+            "artist": "Jason Stephenson",
+            "video_id": "yGi1MePEN-k",
+            "duration": "3:00:16",
+            "thumbnail_url": "https://lh3.googleusercontent.com/izy-xwSTCCdIGhhIC-zIbatYKoQaIqf_lTHzscee2mvj5INnAPCEoqkPGBgcLjs4WSATb75kS8nECSv_=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Your Thought | Original Romantic Song | Heartfelt romantic lyrics",
+            "artist": "BollyBeatzMusic",
+            "video_id": "RUKcFiiRNR4",
+            "duration": "3:57",
+            "thumbnail_url": "https://lh3.googleusercontent.com/nqnN3RY-SVHuwK3O2ImP-OM5KRYOh1Jyrtp_Fy-ODDq09yfoIzyQtgRUm1NRxi4JOk93wmbpWdMOiRS-=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Aana (From \"Marjaavaan\")",
+            "artist": "Payal Dev, Jubin Nautiyal",
+            "video_id": "tLaJFnc93Oc",
+            "duration": "4:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/I1joWeHM_7TM_uJ-cQrn3OmZ9plqWxhB74zeYcgPDwCZwoXPb0JkEQ7L8KevoAt8CIDpX6ztKOllrZI=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Forever and Ever and Ever (Movie: Saiyaara)",
+            "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, John Stewart Eduri",
+            "video_id": "TS0moaD8gO0",
+            "duration": "2:21",
+            "thumbnail_url": "https://lh3.googleusercontent.com/dndafYX77Q5y5Z9fDrfFrcp8xKoUPFtKuoPGIhOclcbv0dIofZDdixSCxqP3V1r6bh24CiTECU7yAcIy=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Mohabbatein Love Themes - Instrumental",
+            "artist": "Instrumental",
+            "video_id": "45uEy0i8RS4",
+            "duration": "2:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/SRLuODtjYp6v1N6P6LL_YThAGvLSUlgdYe4deAVF8NSEjYRyggJaHBRuSH37wReknnrijAuegdS9Bas=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ik Mulaqaat",
+            "artist": "Meet Bros, Palak Muchhal, Altamash Faridi",
+            "video_id": "jLHyFkCKEzg",
+            "duration": "4:08",
+            "thumbnail_url": "https://lh3.googleusercontent.com/IY8TO2aX4H-Q224rUV8NMMRYGWYj_WjbYCbttpaMuu1OC_wgcJ0vEtISfx3w-DL92B4J3DZcGDwMhWYB=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Duniyaa (From \"Luka Chuppi\")",
+            "artist": "Akhil, Dhvani Bhanushali",
+            "video_id": "h3EuilWNquo",
+            "duration": "3:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kpmaPayRqAm6Ol1j_uYIQvxvDHVBEdW7RM5YSGNud0n36onW-W0lITnTv9YE9tN6Jx3s8JvcvfrA7Pax_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Instant Relief from Anxiety & Stress",
+            "artist": "Prabin Dangol",
+            "video_id": "8p7LwCBgpCE",
+            "duration": "1:00:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/D8nMpMMASs02jjZUNMh2KQ-VNWh_I63NzvofVkXuM4Zzq60ItnRvi0A_zahm-HHI-QzLX0TS7TdhNUG9Kg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Humnava Mere",
+            "artist": "Jubin Nautiyal, Rocky-Shiv",
+            "video_id": "n9qQiuwBywU",
+            "duration": "5:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/aS-dAX83dZ6jsyIVV8ZWyN7Fd1cQzvH940bACS1EpFjsc9Uqs9cBFOnaY8LLGSzZk8SvXFe1OOJxrx8=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tere Bina\u00a0",
+            "artist": "Unknown",
+            "video_id": "Fi3GovijpWA",
+            "duration": "5:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/x-S2zkffDNM5MlgF8twdjL2SDCnbxkFAexaKpE2-fGnGmY07jPIOyCtUbjT1HPUf6mLURYAqc2dLV_4P=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Love Songs (Bonus)",
+            "artist": "Kaash Paige",
+            "video_id": "a7ms3r-qt0E",
+            "duration": "2:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ZdrrLxaA5Fjxz18gEIHjDriCD-LaXB45qogySBnbkKaPl-Jk_Thpv_UEy9ZAzvz065BAI-9f39yobeQN=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Aashiqui (The Love Theme)",
+            "artist": "Mithoon",
+            "video_id": "xO3sTaCsJAI",
+            "duration": "2:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Muskurane (Romantic)",
+            "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+            "video_id": "8MUgi5liyMU",
+            "duration": "5:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/50R_-uUGlcVL0Nh2MMwAv9kqVBQRNdE8VSIrqCNyagwzn1KczQJnQW84ELmXxSPYd3zx7RARkSoeSSo=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Romantic",
+            "secondary_mood": "Sweet",
+            "playlist_title": "Pyaar Ki Dhun",
+            "keywords": [
+              "Ishq Wala Love",
+              "Bollywood",
+              "romantic",
+              "love songs",
+              "Hindi",
+              "sweet"
+            ],
+            "narrative": "Immerse yourself in a collection of heartwarming melodies and tender lyrics that evoke the sweet, dreamy, and innocent feeling of 'Ishq Wala Love'. This playlist is designed for those moments when your heart swells with affection and everything feels beautiful.",
+            "recommended_genres": [
+              "Bollywood Pop",
+              "Filmi",
+              "Romantic Ballads",
+              "Indian Pop"
+            ]
+          },
+          {
+            "primary_mood": "Romantic",
+            "secondary_mood": "Dreamy",
+            "playlist_title": "First Blush Serenade",
+            "keywords": [
+              "Ishq Wala Love",
+              "Bollywood",
+              "romantic",
+              "sweet",
+              "love songs",
+              "dreamy"
+            ],
+            "narrative": "This playlist is for those moments when love feels like a gentle breeze and every glance holds a thousand unspoken words. It's the flutter of a first crush, the warmth of a sweet embrace, and the innocent magic of a blossoming romance.",
+            "recommended_genres": [
+              "Bollywood OST",
+              "Indian Pop",
+              "Romantic Ballads"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "ishq wala love",
+        "mood": {
+          "primary_mood": "Romantic",
+          "secondary_mood": "Sweet",
+          "playlist_title": "Pyaar Ki Dhun",
+          "keywords": [
+            "Ishq Wala Love",
+            "Bollywood",
+            "romantic",
+            "love songs",
+            "Hindi",
+            "sweet"
+          ],
+          "narrative": "Immerse yourself in a collection of heartwarming melodies and tender lyrics that evoke the sweet, dreamy, and innocent feeling of 'Ishq Wala Love'. This playlist is designed for those moments when your heart swells with affection and everything feels beautiful.",
+          "recommended_genres": [
+            "Bollywood Pop",
+            "Filmi",
+            "Romantic Ballads",
+            "Indian Pop"
+          ]
+        },
+        "transitions": [
+          "Easing in with Ishq Wala Love - Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan to set the romantic tone.",
+          "Let us lift the room with Muskurane (Romantic) - Jeet Gannguli, Arijit Singh, Rashmi Virag.",
+          "Here comes your emotional anchor: Vaaste - Dhvani Bhanushali, Nikhil D'souza, Tanishk Bagchi.",
+          "We ramp the energy with Duniyaa (From \"Luka Chuppi\") - Akhil, Dhvani Bhanushali before landing on Pehli Nazar Mein - Pritam, Atif Aslam."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Romantic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Sweet",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Ishq Wala Love",
+            "artist": "Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan",
+            "video_id": "mUisIKGTkVw",
+            "duration": "4:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/AlZGag8UOT0rhGR8grMH3nMquQJV-UbS8ftmlkv6xMi4CN8J1d6BbvUOSMX788t-KdVNOjSVwp1VNFyQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "IJAZAT",
+            "artist": "MEET BROS, ARIJIT SINGH",
+            "video_id": "qI4rijn4_Mo",
+            "duration": "4:49",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kIN6MHu8YyLF7_FOxwoC0LSbZM4zMMiDLvR5dlnjR8d17Bnt_eLsSvCddxrFm47b9gLNpbd0v6tLvHc=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Chand Sifarish",
+            "artist": "Shaan, Kailash Kher",
+            "video_id": "ZaURV4XxdPI",
+            "duration": "4:36",
+            "thumbnail_url": "https://lh3.googleusercontent.com/OBPltkE5tFOKdcz88V9FIa9ZGRnnmbuskOCJeZd7Krkpp2C9aNkhNFf2oE97lShU2ldOXoww8rLMtxE=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kesariya (From \"Brahmastra\")",
+            "artist": "Arijit Singh",
+            "video_id": "NJAv_7lHUIU",
+            "duration": "4:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CH0SThQN0HOk2eV81GGA-Tiftn58G48iy8lEyKNXJjbDSI9ApKKnmt4ncwr5gO_mZoQvFF3HPfHtky1Y=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Apna Bana Le (From \"Bhediya\")",
+            "artist": "Arijit Singh, Sachin-Jigar",
+            "video_id": "YALvuUpY_b0",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EqN-4y9jQg91mt-94KKI8L1xu3olMS-Fh_WLL5tMlnqh1pSRzt-uWdnTVlY_GBnvLuA_WJmS6FYAXJlZtQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Vaaste",
+            "artist": "Dhvani Bhanushali, Nikhil D'souza, Tanishk Bagchi",
+            "video_id": "-178Bx1bdjo",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/etcSKQVOmrgEeUmTlAn69dE8Kvh01kzUk36zvpCiRNULxqHh8-MGXhXVyqkdih_a-_EwRMr7BXNVFL0=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Thoda Thoda Pyaar",
+            "artist": "Stebin Ben, Nilesh Ahuja",
+            "video_id": "NoucUuveKJ8",
+            "duration": "4:05",
+            "thumbnail_url": "https://lh3.googleusercontent.com/8riKBLozRHx3yJJFfnJqZqs0MEwmhtE4WqifW4zQHNiw9RzTQgTqnsXrP9rx8peb4bg6cDXerD7tWjM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Muskurane (Romantic)",
+            "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+            "video_id": "8MUgi5liyMU",
+            "duration": "5:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/50R_-uUGlcVL0Nh2MMwAv9kqVBQRNdE8VSIrqCNyagwzn1KczQJnQW84ELmXxSPYd3zx7RARkSoeSSo=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kya Yahi Pyar Hai (From \"Rocky\")",
+            "artist": "Lata Mangeshkar, Kishore Kumar, R. D. Burman",
+            "video_id": "9z6EEprP4rA",
+            "duration": "6:25",
+            "thumbnail_url": "https://lh3.googleusercontent.com/MBxDjGUoopYRrZE9wlHMaL_wXqUxOCZxMM4T1EqOWcrZH6HdHHj_y6QvsZeMidp-p6LlP07roDoO_oSt=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Pehli Dafa",
+            "artist": "Atif Aslam",
+            "video_id": "gOSM2dEqwsE",
+            "duration": "4:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Y8UjcsXYJJI4dcwaQlpDSh5UBAi21kkqAfro0ZuSuvJolybfTVXP8rwwEH9i3EA4kYvdSLzBvI4YBj7A=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Ho",
+            "artist": "Arijit Singh",
+            "video_id": "fsiPzT50ZiM",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Bulaava",
+            "artist": "Vishal & Shekhar",
+            "video_id": "ZCRL8V0ZkEA",
+            "duration": "5:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/nQ2kwOCjGypfPiswM38DaWIhY7pjVgIfi6n6AOkZrkqMPmij87_AQvxcCHIHKsXyrLiE0i_HbVRetrI=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Dil Maang Raha Hai",
+            "artist": "Yasser Desai",
+            "video_id": "T_0sURSB_2I",
+            "duration": "3:14",
+            "thumbnail_url": "https://lh3.googleusercontent.com/r1FYX8BhRTRufloqKofTkHKUtfMCInGXZgZDJxx2cHlfHrw1zcb_ZWoq60k9dAuvfWU7dGlojlwIFEAVxw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Duniyaa (From \"Luka Chuppi\")",
+            "artist": "Akhil, Dhvani Bhanushali",
+            "video_id": "h3EuilWNquo",
+            "duration": "3:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kpmaPayRqAm6Ol1j_uYIQvxvDHVBEdW7RM5YSGNud0n36onW-W0lITnTv9YE9tN6Jx3s8JvcvfrA7Pax_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Pehli Nazar Mein",
+            "artist": "Pritam, Atif Aslam",
+            "video_id": "swcCuuQKGJ4",
+            "duration": "5:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Pn4dKt8s_W5F_lRdPD2rEDdDF2fe3xHFVPspBuaM0gGqK_FCSuGpsQTldvB8AoOVHD0TQtRMSogEiJGk=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Romantic",
+            "secondary_mood": "Dreamy",
+            "playlist_title": "First Blush Serenade",
+            "keywords": [
+              "Ishq Wala Love",
+              "Bollywood",
+              "romantic",
+              "sweet",
+              "love songs",
+              "dreamy"
+            ],
+            "narrative": "This playlist is for those moments when love feels like a gentle breeze and every glance holds a thousand unspoken words. It's the flutter of a first crush, the warmth of a sweet embrace, and the innocent magic of a blossoming romance.",
+            "recommended_genres": [
+              "Bollywood OST",
+              "Indian Pop",
+              "Romantic Ballads"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "ishq wala love",
+        "mood": {
+          "primary_mood": "Romantic",
+          "secondary_mood": "Dreamy",
+          "playlist_title": "First Blush Serenade",
+          "keywords": [
+            "Ishq Wala Love",
+            "Bollywood",
+            "romantic",
+            "sweet",
+            "love songs",
+            "dreamy"
+          ],
+          "narrative": "This playlist is for those moments when love feels like a gentle breeze and every glance holds a thousand unspoken words. It's the flutter of a first crush, the warmth of a sweet embrace, and the innocent magic of a blossoming romance.",
+          "recommended_genres": [
+            "Bollywood OST",
+            "Indian Pop",
+            "Romantic Ballads"
+          ]
+        },
+        "transitions": [
+          "Easing in with Ishq Wala Love - Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan to set the romantic tone.",
+          "Let us lift the room with Tum Hi Ho - Arijit Singh.",
+          "Here comes your emotional anchor: Thoda Thoda Pyaar - Stebin Ben, Nilesh Ahuja.",
+          "We ramp the energy with BESABRIYAAN - ARMAAN MALIK, AMAAL MALLIK before landing on Dil Maang Raha Hai - Yasser Desai."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Romantic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Dreamy",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Ishq Wala Love",
+            "artist": "Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan",
+            "video_id": "mUisIKGTkVw",
+            "duration": "4:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/AlZGag8UOT0rhGR8grMH3nMquQJV-UbS8ftmlkv6xMi4CN8J1d6BbvUOSMX788t-KdVNOjSVwp1VNFyQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Waala Love (Instrumental)",
+            "artist": "Rishi Kumar Instrumentals, Vishal & Shekhar",
+            "video_id": "6Wn-njurHI0",
+            "duration": "3:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rzYkz-4AfzDOwRqf4R5HQkN21pMHkgaQYkX5lqrZqANW7BeMj7LB3bpAsPTSg2X33lJgzlvm1b3z-rFk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kesariya (From \"Brahmastra\")",
+            "artist": "Arijit Singh",
+            "video_id": "NJAv_7lHUIU",
+            "duration": "4:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CH0SThQN0HOk2eV81GGA-Tiftn58G48iy8lEyKNXJjbDSI9ApKKnmt4ncwr5gO_mZoQvFF3HPfHtky1Y=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Apna Bana Le (From \"Bhediya\")",
+            "artist": "Arijit Singh, Sachin-Jigar",
+            "video_id": "YALvuUpY_b0",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EqN-4y9jQg91mt-94KKI8L1xu3olMS-Fh_WLL5tMlnqh1pSRzt-uWdnTVlY_GBnvLuA_WJmS6FYAXJlZtQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ik Mulaqaat",
+            "artist": "Meet Bros, Palak Muchhal, Altamash Faridi",
+            "video_id": "jLHyFkCKEzg",
+            "duration": "4:08",
+            "thumbnail_url": "https://lh3.googleusercontent.com/IY8TO2aX4H-Q224rUV8NMMRYGWYj_WjbYCbttpaMuu1OC_wgcJ0vEtISfx3w-DL92B4J3DZcGDwMhWYB=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Thoda Thoda Pyaar",
+            "artist": "Stebin Ben, Nilesh Ahuja",
+            "video_id": "NoucUuveKJ8",
+            "duration": "4:05",
+            "thumbnail_url": "https://lh3.googleusercontent.com/8riKBLozRHx3yJJFfnJqZqs0MEwmhtE4WqifW4zQHNiw9RzTQgTqnsXrP9rx8peb4bg6cDXerD7tWjM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Pehli Dafa",
+            "artist": "Atif Aslam",
+            "video_id": "gOSM2dEqwsE",
+            "duration": "4:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Y8UjcsXYJJI4dcwaQlpDSh5UBAi21kkqAfro0ZuSuvJolybfTVXP8rwwEH9i3EA4kYvdSLzBvI4YBj7A=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Ho",
+            "artist": "Arijit Singh",
+            "video_id": "fsiPzT50ZiM",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Muskurane (Romantic)",
+            "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+            "video_id": "8MUgi5liyMU",
+            "duration": "5:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/50R_-uUGlcVL0Nh2MMwAv9kqVBQRNdE8VSIrqCNyagwzn1KczQJnQW84ELmXxSPYd3zx7RARkSoeSSo=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Aashiqui (The Love Theme)",
+            "artist": "Mithoon",
+            "video_id": "xO3sTaCsJAI",
+            "duration": "2:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Lofi Lovee",
+            "artist": "Asees Kaur, Ved Sharma, Harsh Limbachiya",
+            "video_id": "aPb4SYUErQ4",
+            "duration": "3:30",
+            "thumbnail_url": "https://lh3.googleusercontent.com/pwnb2aU-1M5YLsQDavWSLx-tmt8zJrtgVwdMetFZGY2mwPIW4B3FTvhNPGFXfsuVQKyzmHFAizEW1c7h=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Aaj Kehna Zaroori Hai (From \"Andaaz\")",
+            "artist": "Alka Yagnik, Udit Narayan",
+            "video_id": "oGYzt9UnH0w",
+            "duration": "5:56",
+            "thumbnail_url": "https://lh3.googleusercontent.com/l2LTzN4FuHDRI9lgPN1pME7o0Plrxw3Xyl2Y8maTUoSztaDK8wAK4Ogat8PL_-lPzNsE-SheGfxUWPus=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Duniyaa (From \"Luka Chuppi\")",
+            "artist": "Akhil, Dhvani Bhanushali",
+            "video_id": "h3EuilWNquo",
+            "duration": "3:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kpmaPayRqAm6Ol1j_uYIQvxvDHVBEdW7RM5YSGNud0n36onW-W0lITnTv9YE9tN6Jx3s8JvcvfrA7Pax_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "BESABRIYAAN",
+            "artist": "ARMAAN MALIK, AMAAL MALLIK",
+            "video_id": "Dorfmg7buTE",
+            "duration": "4:16",
+            "thumbnail_url": "https://lh3.googleusercontent.com/JFOH8kF-mXwFHZc-wPTqnX3aM2bRtpGMpOr2VByhQim4PrsIawLcHi-SYuBKjZy4a2Ef_nGTAlgDJw4T=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Dil Maang Raha Hai",
+            "artist": "Yasser Desai",
+            "video_id": "T_0sURSB_2I",
+            "duration": "3:14",
+            "thumbnail_url": "https://lh3.googleusercontent.com/r1FYX8BhRTRufloqKofTkHKUtfMCInGXZgZDJxx2cHlfHrw1zcb_ZWoq60k9dAuvfWU7dGlojlwIFEAVxw=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "nf sonfs",
+        "mood": {
+          "primary_mood": "Introspective",
+          "secondary_mood": "Vulnerable",
+          "playlist_title": "Raw Thoughts",
+          "keywords": [
+            "NF",
+            "hip hop",
+            "rap",
+            "emotional",
+            "lyrical",
+            "conscious rap"
+          ],
+          "narrative": "Strictly songs by NF.",
+          "recommended_genres": [
+            "Hip Hop",
+            "Rap",
+            "Conscious Hip Hop"
+          ]
+        },
+        "transitions": [
+          "Easing in with The Search - NF to set the introspective tone.",
+          "Let us lift the room with Sad Emotional Rap | NF Type Beat - My Story - Eleffan Beats.",
+          "Here comes your emotional anchor: Sad Emotional Rap | NF Type Beat - Choices - Eleffan Beats.",
+          "We ramp the energy with Beautiful - Eminem before landing on NF \"STORY\" Type Beat | SAD Storytelling Type Beat - oye vvk, Dia Beatz."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Introspective",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Vulnerable",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "The Search",
+            "artist": "NF",
+            "video_id": "Zh9p-6JfrSo",
+            "duration": "4:09",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "When I Grow Up",
+            "artist": "NF",
+            "video_id": "nBS1LR0S8ks",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Sad Emotional Rap | NF Type Beat - Bench",
+            "artist": "Eleffan Beats",
+            "video_id": "WHvpJUwQ2NQ",
+            "duration": "4:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/di3FdmhLn4MgBkr8yiFid3K48LoJOefQRBHUOvuhOj05s2xaLdV5XymhgQHZFT679dohJn870OaZ0u_V=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Sad Emotional Rap | NF Type Beat - Choices",
+            "artist": "Eleffan Beats",
+            "video_id": "BpFwuaLnreg",
+            "duration": "2:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/di3FdmhLn4MgBkr8yiFid3K48LoJOefQRBHUOvuhOj05s2xaLdV5XymhgQHZFT679dohJn870OaZ0u_V=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Depression",
+            "artist": "Dax",
+            "video_id": "12qkHgHxj4g",
+            "duration": "4:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/BQYDdH50zeit5GzSMXfmRdhp6jXQhbIRethkD81lX6xIjCtRilezV9dRMe0Q1ZU_mTuhnrpK-yT-aMK6=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Sad Emotional Rap | NF Type Beat - My Story",
+            "artist": "Eleffan Beats",
+            "video_id": "_NYyX5PpawY",
+            "duration": "2:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/di3FdmhLn4MgBkr8yiFid3K48LoJOefQRBHUOvuhOj05s2xaLdV5XymhgQHZFT679dohJn870OaZ0u_V=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Free NF (Sad Emotional Rap Instrumental)",
+            "artist": "Type Beat",
+            "video_id": "mk3ZmATPHQY",
+            "duration": "3:12",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CtrEvGDQHt5F9RajALNg8O-4mMbEmmiu52d2pzhLznA7r18iB3qu9N8iSVvQMp4PqaysWdQZjThrZLQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hope",
+            "artist": "XXXTENTACION",
+            "video_id": "KyAcMpQUY5s",
+            "duration": "1:51",
+            "thumbnail_url": "https://lh3.googleusercontent.com/7WuCPt_wzSaUJ8aNSmY4tzjMnx9Yyc-GFdD67nrgk4IUzdTz0B80JP9aoHP0_a-Xo0rx9PtxBKx7Xay9=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "FEEL.",
+            "artist": "Kendrick Lamar",
+            "video_id": "cQtFTqh1mwM",
+            "duration": "3:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/B1bVbj-AbBIJxL7RHJ2B7F9fLCv2reqD-9hPQAQf77cbWpf_a0KQM-d2zHoKCXBbjtKYBlc3-18zK4I=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Beautiful",
+            "artist": "Eminem",
+            "video_id": "F4yb0CBd4I4",
+            "duration": "6:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/uug1FXZw9zd6z8YNleGWyiKBBxvMXSBPtnTGqLJDt3mINoyUyo2s7bZocZPfDFIPEyEteOMexpbw7Q0=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"STORY\" Type Beat | SAD Storytelling Type Beat",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "u5d3jYgLE6g",
+            "duration": "3:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/OULHWnr0ak2VtxVcUfFDmg-alR2Ki9qRAuVbT3QrdYLMbJt3ozB8aCzx_RXrqhl8C4J1PtMeUBXfiTc-=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Romantic",
+            "secondary_mood": "Sweet",
+            "playlist_title": "Ishq Ki Dhun",
+            "keywords": [
+              "Ishq Wala Love",
+              "Bollywood",
+              "Hindi",
+              "Love Songs",
+              "Romantic"
+            ],
+            "narrative": "Get ready to swoon! This playlist is for all those 'ishq wala love' moments \u2013 pure, sweet, and deeply romantic. Imagine soft breezes, stolen glances, and the magic of a blossoming love story, all set to the most heartwarming melodies.",
+            "recommended_genres": [
+              "Bollywood",
+              "Hindi Pop",
+              "Romantic Indian",
+              "Filmi"
+            ]
+          },
+          {
+            "primary_mood": "Romantic",
+            "secondary_mood": "Dreamy",
+            "playlist_title": "Dilwale Dreams",
+            "keywords": [
+              "ishq wala love",
+              "Bollywood",
+              "Romance",
+              "Hindi",
+              "Love songs",
+              "Sweet"
+            ],
+            "narrative": "This playlist is for those moments when your heart flutters with sweet, innocent love, inspired by the iconic 'ishq wala love' sentiment. It's a journey through the dreamy landscapes of Bollywood romance, perfect for feeling all the feels.",
+            "recommended_genres": [
+              "Bollywood Pop",
+              "Hindi Romantic",
+              "Filmi",
+              "Indian Pop"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "ishq wala love",
+        "mood": {
+          "primary_mood": "Romantic",
+          "secondary_mood": "Sweet",
+          "playlist_title": "Ishq Ki Dhun",
+          "keywords": [
+            "Ishq Wala Love",
+            "Bollywood",
+            "Hindi",
+            "Love Songs",
+            "Romantic"
+          ],
+          "narrative": "Get ready to swoon! This playlist is for all those 'ishq wala love' moments \u2013 pure, sweet, and deeply romantic. Imagine soft breezes, stolen glances, and the magic of a blossoming love story, all set to the most heartwarming melodies.",
+          "recommended_genres": [
+            "Bollywood",
+            "Hindi Pop",
+            "Romantic Indian",
+            "Filmi"
+          ]
+        },
+        "transitions": [
+          "Easing in with Ishq Wala Love - Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan to set the romantic tone.",
+          "Let us lift the room with Tum Hi Ho - Arijit Singh.",
+          "Here comes your emotional anchor: Kya Yahi Pyar Hai (From \"Rocky\") - Lata Mangeshkar, Kishore Kumar, R. D. Burman.",
+          "We ramp the energy with SALAAM-E-ISHQ - SONU NIGAM, SHREYA GHOSHAL, KUNAL GANJAWALA, SADHANA SARGAM before landing on Ishq-e-Jaan - Rahat Fateh Ali Khan."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Romantic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Sweet",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Ishq Wala Love",
+            "artist": "Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan",
+            "video_id": "mUisIKGTkVw",
+            "duration": "4:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/AlZGag8UOT0rhGR8grMH3nMquQJV-UbS8ftmlkv6xMi4CN8J1d6BbvUOSMX788t-KdVNOjSVwp1VNFyQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Mareez - E - Ishq",
+            "artist": "Sharib Toshi, Arijit Singh",
+            "video_id": "T6jFshH6XmY",
+            "duration": "4:52",
+            "thumbnail_url": "https://lh3.googleusercontent.com/TFXzTbP8FEAEgodLKv1XFDG60_ugIobZeE8k4nWI7Cqwev4ByAaGQijzzJrgyMbOkH33OPRSWz8UAfjl=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Hai",
+            "artist": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee",
+            "video_id": "TQqBjSAK52s",
+            "duration": "5:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Co211fF_OUI1H4XoRZ5a6gymL25lXfBnjT-TsEtboos19uF3U9A-q0i3MLcm4eFbb5EOq5Fx0R3DI4qzSw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kesariya (From \"Brahmastra\")",
+            "artist": "Arijit Singh",
+            "video_id": "NJAv_7lHUIU",
+            "duration": "4:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CH0SThQN0HOk2eV81GGA-Tiftn58G48iy8lEyKNXJjbDSI9ApKKnmt4ncwr5gO_mZoQvFF3HPfHtky1Y=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "IJAZAT",
+            "artist": "MEET BROS, ARIJIT SINGH",
+            "video_id": "qI4rijn4_Mo",
+            "duration": "4:49",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kIN6MHu8YyLF7_FOxwoC0LSbZM4zMMiDLvR5dlnjR8d17Bnt_eLsSvCddxrFm47b9gLNpbd0v6tLvHc=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kya Yahi Pyar Hai (From \"Rocky\")",
+            "artist": "Lata Mangeshkar, Kishore Kumar, R. D. Burman",
+            "video_id": "9z6EEprP4rA",
+            "duration": "6:25",
+            "thumbnail_url": "https://lh3.googleusercontent.com/MBxDjGUoopYRrZE9wlHMaL_wXqUxOCZxMM4T1EqOWcrZH6HdHHj_y6QvsZeMidp-p6LlP07roDoO_oSt=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Bulaava",
+            "artist": "Vishal & Shekhar",
+            "video_id": "ZCRL8V0ZkEA",
+            "duration": "5:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/nQ2kwOCjGypfPiswM38DaWIhY7pjVgIfi6n6AOkZrkqMPmij87_AQvxcCHIHKsXyrLiE0i_HbVRetrI=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Ho",
+            "artist": "Arijit Singh",
+            "video_id": "fsiPzT50ZiM",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Aana (From \"Marjaavaan\")",
+            "artist": "Payal Dev, Jubin Nautiyal",
+            "video_id": "tLaJFnc93Oc",
+            "duration": "4:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/I1joWeHM_7TM_uJ-cQrn3OmZ9plqWxhB74zeYcgPDwCZwoXPb0JkEQ7L8KevoAt8CIDpX6ztKOllrZI=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Muskurane (Romantic)",
+            "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+            "video_id": "8MUgi5liyMU",
+            "duration": "5:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/50R_-uUGlcVL0Nh2MMwAv9kqVBQRNdE8VSIrqCNyagwzn1KczQJnQW84ELmXxSPYd3zx7RARkSoeSSo=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Apna Bana Le (From \"Bhediya\")",
+            "artist": "Arijit Singh, Sachin-Jigar",
+            "video_id": "YALvuUpY_b0",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EqN-4y9jQg91mt-94KKI8L1xu3olMS-Fh_WLL5tMlnqh1pSRzt-uWdnTVlY_GBnvLuA_WJmS6FYAXJlZtQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Thoda Thoda Pyaar",
+            "artist": "Stebin Ben, Nilesh Ahuja",
+            "video_id": "NoucUuveKJ8",
+            "duration": "4:05",
+            "thumbnail_url": "https://lh3.googleusercontent.com/8riKBLozRHx3yJJFfnJqZqs0MEwmhtE4WqifW4zQHNiw9RzTQgTqnsXrP9rx8peb4bg6cDXerD7tWjM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Wala Love (MTV Unplugged Version)",
+            "artist": "Salim-Sulaiman, Salim Sadruddin Merchant",
+            "video_id": "8wZ4mwTx_xc",
+            "duration": "6:55",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9PZd7Eof2bA8aMaXAjy-w_G4qoNeqMbtbtKoRV5wI77vuhSt5mHyF5no3jIPe4q_f-7Q8RdsqFZp7NUy=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "SALAAM-E-ISHQ",
+            "artist": "SONU NIGAM, SHREYA GHOSHAL, KUNAL GANJAWALA, SADHANA SARGAM",
+            "video_id": "MoJVzTzixzs",
+            "duration": "7:03",
+            "thumbnail_url": "https://lh3.googleusercontent.com/fq0A0czoF-94F49S6X91T3O6dJhJAQZIroDqWtlsX8WSoK6L8r3Hk3xczfP34SogBikP9lhe4kLKQ5Pdsw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq-e-Jaan",
+            "artist": "Rahat Fateh Ali Khan",
+            "video_id": "3esw4HGEIFs",
+            "duration": "3:37",
+            "thumbnail_url": "https://lh3.googleusercontent.com/r4ADX-gWUtvmy6sPxBv6HK8jTQ2F5-2pZwVqwEOmv-iSEcuOkZ8VHpbPpOEZ4SMQRPlpKq3tDIN92Hg=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Romantic",
+            "secondary_mood": "Dreamy",
+            "playlist_title": "Dilwale Dreams",
+            "keywords": [
+              "ishq wala love",
+              "Bollywood",
+              "Romance",
+              "Hindi",
+              "Love songs",
+              "Sweet"
+            ],
+            "narrative": "This playlist is for those moments when your heart flutters with sweet, innocent love, inspired by the iconic 'ishq wala love' sentiment. It's a journey through the dreamy landscapes of Bollywood romance, perfect for feeling all the feels.",
+            "recommended_genres": [
+              "Bollywood Pop",
+              "Hindi Romantic",
+              "Filmi",
+              "Indian Pop"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "ishq wala love",
+        "mood": {
+          "primary_mood": "Romantic",
+          "secondary_mood": "Dreamy",
+          "playlist_title": "Dilwale Dreams",
+          "keywords": [
+            "ishq wala love",
+            "Bollywood",
+            "Romance",
+            "Hindi",
+            "Love songs",
+            "Sweet"
+          ],
+          "narrative": "This playlist is for those moments when your heart flutters with sweet, innocent love, inspired by the iconic 'ishq wala love' sentiment. It's a journey through the dreamy landscapes of Bollywood romance, perfect for feeling all the feels.",
+          "recommended_genres": [
+            "Bollywood Pop",
+            "Hindi Romantic",
+            "Filmi",
+            "Indian Pop"
+          ]
+        },
+        "transitions": [
+          "Easing in with Ishq Wala Love - Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan to set the romantic tone.",
+          "Let us lift the room with AGAR TUM SAATH HO - Arijit Singh, Alka Yagnik.",
+          "Here comes your emotional anchor: Vaaste - Dhvani Bhanushali, Nikhil D'souza, Tanishk Bagchi.",
+          "We ramp the energy with Duniyaa (From \"Luka Chuppi\") - Akhil, Dhvani Bhanushali before landing on Surkh Wala Love - Shahid Mallya, Shalmali Kholgade."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Romantic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Dreamy",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Ishq Wala Love",
+            "artist": "Vishal & Shekhar, Shekhar Ravjiani, Salim Sadruddin Merchant, Neeti Mohan",
+            "video_id": "mUisIKGTkVw",
+            "duration": "4:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/AlZGag8UOT0rhGR8grMH3nMquQJV-UbS8ftmlkv6xMi4CN8J1d6BbvUOSMX788t-KdVNOjSVwp1VNFyQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "IJAZAT",
+            "artist": "MEET BROS, ARIJIT SINGH",
+            "video_id": "qI4rijn4_Mo",
+            "duration": "4:49",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kIN6MHu8YyLF7_FOxwoC0LSbZM4zMMiDLvR5dlnjR8d17Bnt_eLsSvCddxrFm47b9gLNpbd0v6tLvHc=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Apna Bana Le (From \"Bhediya\")",
+            "artist": "Arijit Singh, Sachin-Jigar",
+            "video_id": "YALvuUpY_b0",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EqN-4y9jQg91mt-94KKI8L1xu3olMS-Fh_WLL5tMlnqh1pSRzt-uWdnTVlY_GBnvLuA_WJmS6FYAXJlZtQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kesariya (From \"Brahmastra\")",
+            "artist": "Arijit Singh",
+            "video_id": "NJAv_7lHUIU",
+            "duration": "4:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CH0SThQN0HOk2eV81GGA-Tiftn58G48iy8lEyKNXJjbDSI9ApKKnmt4ncwr5gO_mZoQvFF3HPfHtky1Y=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Thoda Thoda Pyaar",
+            "artist": "Stebin Ben, Nilesh Ahuja",
+            "video_id": "NoucUuveKJ8",
+            "duration": "4:05",
+            "thumbnail_url": "https://lh3.googleusercontent.com/8riKBLozRHx3yJJFfnJqZqs0MEwmhtE4WqifW4zQHNiw9RzTQgTqnsXrP9rx8peb4bg6cDXerD7tWjM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Vaaste",
+            "artist": "Dhvani Bhanushali, Nikhil D'souza, Tanishk Bagchi",
+            "video_id": "-178Bx1bdjo",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/etcSKQVOmrgEeUmTlAn69dE8Kvh01kzUk36zvpCiRNULxqHh8-MGXhXVyqkdih_a-_EwRMr7BXNVFL0=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Aana (From \"Marjaavaan\")",
+            "artist": "Payal Dev, Jubin Nautiyal",
+            "video_id": "tLaJFnc93Oc",
+            "duration": "4:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/I1joWeHM_7TM_uJ-cQrn3OmZ9plqWxhB74zeYcgPDwCZwoXPb0JkEQ7L8KevoAt8CIDpX6ztKOllrZI=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "AGAR TUM SAATH HO",
+            "artist": "Arijit Singh, Alka Yagnik",
+            "video_id": "FOA9iyxsW_A",
+            "duration": "5:42",
+            "thumbnail_url": "https://lh3.googleusercontent.com/AT2wfk1PvKjnHO7BzH2i2NkAvqRy_oZNEq48QGBlLJb51AuguCiR3mzp99X1uFdZezAkoSJ2WGjUU-HXZg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Muskurane (Romantic)",
+            "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+            "video_id": "8MUgi5liyMU",
+            "duration": "5:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/50R_-uUGlcVL0Nh2MMwAv9kqVBQRNdE8VSIrqCNyagwzn1KczQJnQW84ELmXxSPYd3zx7RARkSoeSSo=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Tum Hi Ho",
+            "artist": "Arijit Singh",
+            "video_id": "fsiPzT50ZiM",
+            "duration": "4:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Chand Sifarish",
+            "artist": "Shaan, Kailash Kher",
+            "video_id": "ZaURV4XxdPI",
+            "duration": "4:36",
+            "thumbnail_url": "https://lh3.googleusercontent.com/OBPltkE5tFOKdcz88V9FIa9ZGRnnmbuskOCJeZd7Krkpp2C9aNkhNFf2oE97lShU2ldOXoww8rLMtxE=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Bulaava",
+            "artist": "Vishal & Shekhar",
+            "video_id": "ZCRL8V0ZkEA",
+            "duration": "5:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/nQ2kwOCjGypfPiswM38DaWIhY7pjVgIfi6n6AOkZrkqMPmij87_AQvxcCHIHKsXyrLiE0i_HbVRetrI=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ishq Wala Love (MTV Unplugged Version)",
+            "artist": "Salim-Sulaiman, Salim Sadruddin Merchant",
+            "video_id": "8wZ4mwTx_xc",
+            "duration": "6:55",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9PZd7Eof2bA8aMaXAjy-w_G4qoNeqMbtbtKoRV5wI77vuhSt5mHyF5no3jIPe4q_f-7Q8RdsqFZp7NUy=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Duniyaa (From \"Luka Chuppi\")",
+            "artist": "Akhil, Dhvani Bhanushali",
+            "video_id": "h3EuilWNquo",
+            "duration": "3:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kpmaPayRqAm6Ol1j_uYIQvxvDHVBEdW7RM5YSGNud0n36onW-W0lITnTv9YE9tN6Jx3s8JvcvfrA7Pax_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Surkh Wala Love",
+            "artist": "Shahid Mallya, Shalmali Kholgade",
+            "video_id": "HqbtQTHtTUI",
+            "duration": "4:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/m9-e6iLU_wz47DC1iWX0aBR0pz-LjCppvK-yedPevbDHqkfYEmI9-OziJuPCgcEcgkJnDl1Pw9py1478=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
       {
         "prompt": "NF vibes",
         "mood": {
