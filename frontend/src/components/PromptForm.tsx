@@ -6,9 +6,10 @@ import { requestPlaylist } from "@/lib/api";
 type Props = {
   onSubmit: (playlist: any) => void;
   userId: string;
+  isLoading?: boolean;
 };
 
-export function PromptForm({ onSubmit, userId }: Props) {
+export function PromptForm({ onSubmit, userId, isLoading = false }: Props) {
   const [prompt, setPrompt] = useState("");
   const [loading, setLoading] = useState(false);
   const [isListening, setIsListening] = useState(false);
@@ -105,11 +106,11 @@ export function PromptForm({ onSubmit, userId }: Props) {
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={loading || !prompt.trim()}
-            className={`bg-retro-neon text-black font-bold px-8 hover:bg-[#b3e600] disabled:opacity-80 disabled:cursor-not-allowed transition-all uppercase tracking-widest clip-path-slant ${loading ? 'animate-pulse' : ''}`}
+            disabled={loading || isLoading || !prompt.trim()}
+            className={`bg-retro-neon text-black font-bold px-8 hover:bg-[#b3e600] disabled:opacity-80 disabled:cursor-not-allowed transition-all uppercase tracking-widest clip-path-slant ${loading || isLoading ? 'animate-pulse' : ''}`}
             style={{ clipPath: "polygon(10px 0, 100% 0, 100% 100%, 0 100%, 0 10px)" }}
           >
-            {loading ? (
+            {loading || isLoading ? (
               <span className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-black rounded-full animate-bounce" style={{ animationDelay: '0ms' }} />
                 <span className="w-2 h-2 bg-black rounded-full animate-bounce" style={{ animationDelay: '150ms' }} />

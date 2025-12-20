@@ -7,9 +7,10 @@ interface Props {
     history: PlaylistResponse[];
     onSelect: (playlist: PlaylistResponse) => void;
     onClear: () => void;
+    onDelete: (index: number) => void;
 }
 
-export function ArchiveDrawer({ isOpen, onClose, history, onSelect, onClear }: Props) {
+export function ArchiveDrawer({ isOpen, onClose, history, onSelect, onClear, onDelete }: Props) {
     return (
         <AnimatePresence>
             {isOpen && (
@@ -52,18 +53,22 @@ export function ArchiveDrawer({ isOpen, onClose, history, onSelect, onClear }: P
                                 </div>
                             ) : (
                                 history.map((entry, index) => (
-                                    <button
+                                    <div
                                         key={`${entry.prompt}-${index}`}
-                                        onClick={() => {
-                                            onSelect(entry);
-                                            onClose();
-                                        }}
-                                        className="w-full group relative bg-retro-surface border border-retro-neon/30 p-4 text-left hover:border-retro-neon transition-all hover:-translate-y-1 hover:shadow-[4px_4px_0px_rgba(204,255,0,0.3)]"
+                                        className="w-full group relative bg-retro-surface border border-retro-neon/30 p-4 text-left transition-all hover:-translate-y-1 hover:shadow-[4px_4px_0px_rgba(204,255,0,0.3)] pr-12"
                                     >
+                                        <button
+                                            onClick={() => {
+                                                onSelect(entry);
+                                                onClose();
+                                            }}
+                                            className="absolute inset-0 z-0"
+                                        />
+
                                         {/* Tape Label Decoration */}
                                         <div className="absolute top-0 left-0 right-0 h-1 bg-retro-neon/20 group-hover:bg-retro-neon transition-colors" />
 
-                                        <div className="flex justify-between items-start mb-2 mt-2">
+                                        <div className="flex justify-between items-start mb-2 mt-2 relative z-10 pointer-events-none">
                                             <span className="text-[10px] font-mono text-retro-neon border border-retro-neon px-1">
                                                 TAPE #{index + 1}
                                             </span>
@@ -72,13 +77,25 @@ export function ArchiveDrawer({ isOpen, onClose, history, onSelect, onClear }: P
                                             </span>
                                         </div>
 
-                                        <h4 className="text-lg font-bold text-retro-text-contrast uppercase truncate mb-1 group-hover:text-retro-neon transition-colors">
+                                        <h4 className="text-lg font-bold text-retro-text-contrast uppercase truncate mb-1 group-hover:text-retro-neon transition-colors relative z-10 pointer-events-none">
                                             {entry.mood.playlist_title || entry.mood.primary_mood}
                                         </h4>
-                                        <p className="text-xs text-zinc-400 line-clamp-2 font-mono leading-relaxed">
+                                        <p className="text-xs text-zinc-400 line-clamp-2 font-mono leading-relaxed relative z-10 pointer-events-none">
                                             {entry.prompt}
                                         </p>
-                                    </button>
+
+                                        {/* Delete Button */}
+                                        <button
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                onDelete(index);
+                                            }}
+                                            className="absolute top-4 right-4 z-20 text-retro-neon/30 hover:text-retro-orange transition-colors p-2"
+                                            title="Erase Tape"
+                                        >
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                        </button>
+                                    </div>
                                 ))
                             )}
                         </div>

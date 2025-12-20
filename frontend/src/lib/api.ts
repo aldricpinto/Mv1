@@ -83,3 +83,57 @@ export async function createPlaylist(userId: string, title: string, videoIds: st
     })
   );
 }
+
+export async function deleteHistoryItem(userId: string, index: number) {
+  return handleResponse<{ status: string; index: number }>(
+    await fetch(`${API_BASE}/playlists/user/history/${index}?user_id=${userId}`, {
+      method: "DELETE",
+    })
+  );
+}
+
+export async function streamPlaylist(
+  prompt: string,
+  deviceId: string,
+  onEvent: (type: "narrative" | "status" | "result" | "error", data: any) => void,
+  userId?: string
+) {
+  const response = await fetch(`${API_BASE}/playlists/generate/stream`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      prompt,
+      device_id: deviceId,
+      user_id: userId,
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error("Failed to start stream");
+  }
+
+  const reader = response.body?.getReader();
+  const decoder = new TextDecoder();
+
+  if (!reader) throw new Error("ReadableStream not supported");
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+
+    const chunk = decoder.decode(value);
+    const lines = chunk.split("\n\n");
+
+    for (const line of lines) {
+      if (line.startsWith("event:")) {
+        const [eventLine, dataLine] = line.split("\n");
+        const eventType = eventLine.replace("event: ", "").trim();
+        const data = dataLine?.replace("data: ", "").trim();
+
+        if (eventType && data) {
+          onEvent(eventType as any, data);
+        }
+      }
+    }
+  }
+}

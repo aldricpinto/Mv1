@@ -1,0 +1,2512 @@
+{
+  "100446877285658837230": {
+    "user_id": "100446877285658837230",
+    "email": "aldric878@gmail.com",
+    "name": "Aldric Pinto",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIiR5IBzNDuKvfuX-HeiLWuav6V37UBZjb4zBK4IoBe_vmXQ_Wb=s96-c",
+    "joined_date": "2025-11-24T03:08:51.243375",
+    "created_on": "2025-11-24T03:08:51.243375",
+    "updated_on": "2025-12-20T20:16:03.884311",
+    "youtube_credentials": {
+      "client_id": "353264128796-r09t9if4qsuufq0m04jbcg2ap4jila4a.apps.googleusercontent.com",
+      "client_secret": "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",
+      "refresh_token": "1//05SAGeh9J9YElCgYIARAAGAUSNwF-L9IrpquTpRhf9Wqpf89bn9J6ncYdndI-37idXh1wdsE5NQMilobtGR_kmKzEb-xTJxI9iPY",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "scopes": [
+        "openid",
+        "https://www.googleapis.com/auth/userinfo.email",
+        "https://www.googleapis.com/auth/userinfo.profile",
+        "https://www.googleapis.com/auth/youtube.readonly",
+        "https://www.googleapis.com/auth/youtube"
+      ],
+      "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube"
+    },
+    "history": [
+      {
+        "prompt": "NF vibes",
+        "mood": {
+          "primary_mood": "Introspective",
+          "secondary_mood": "Melancholy",
+          "playlist_title": "Inner Monologue",
+          "keywords": [
+            "NF",
+            "emotional rap",
+            "introspective hip hop",
+            "vulnerable lyrics",
+            "dark beats",
+            "storytelling"
+          ],
+          "narrative": "Dive deep into the raw honesty and poignant storytelling that define the NF experience. This playlist is for moments of reflection, grappling with inner demons, and finding power in vulnerability, all set to intense beats and powerful lyrical delivery.",
+          "recommended_genres": [
+            "Hip Hop",
+            "Lyrical Rap",
+            "Alternative Hip Hop"
+          ]
+        },
+        "transitions": [
+          "Easing in with The Search - NF to set the introspective tone.",
+          "Let us lift the room with NF \"KNOW\" Type Beat | Sad Storytelling Type Beat - oye vvk, Dia Beatz.",
+          "Here comes your emotional anchor: NF \"STORY\" Type Beat | SAD Storytelling Type Beat - oye vvk, Dia Beatz.",
+          "We ramp the energy with Lost (Storytelling Rap Beat Mix) - ElementBeatz before landing on (Emotional Rap) Deep Storytelling Rap Beat \u2013 Hard-hitting Vibes - DyinoBeats."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Introspective",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Melancholy",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "The Search",
+            "artist": "NF",
+            "video_id": "Zh9p-6JfrSo",
+            "duration": "4:09",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "LAYERS",
+            "artist": "NF",
+            "video_id": "6xO6mdCWtww",
+            "duration": "3:16",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "When I Grow Up",
+            "artist": "NF",
+            "video_id": "nBS1LR0S8ks",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Warm Up",
+            "artist": "NF",
+            "video_id": "a5-qVyxJBq8",
+            "duration": "3:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EVUPpBnW8OJ7NpR1xIiqBhTOMFA8xaTh0Birn4RRBv1txR_wSNnHDk1ajpv9LGNRQM2iRHM0h-dHzVk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"STORY\" Type Beat | SAD Storytelling Type Beat",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "u5d3jYgLE6g",
+            "duration": "3:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/OULHWnr0ak2VtxVcUfFDmg-alR2Ki9qRAuVbT3QrdYLMbJt3ozB8aCzx_RXrqhl8C4J1PtMeUBXfiTc-=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"THE SEARCH\" Type Beat | Sad Storytelling Type Beat",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "gC_UN9EdTyY",
+            "duration": "3:51",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FvYLIdAgF7DKIFQE4eDvFfJZTjAfpHc3IjmdNeejFwN0YCEATFbW7hN1Z-NBuRmJr5Tq526uIT0T4WY=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"WORRY\" Type Beat | Sad Storytelling Type Beat",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "IAW80qCOo5A",
+            "duration": "3:07",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FvYLIdAgF7DKIFQE4eDvFfJZTjAfpHc3IjmdNeejFwN0YCEATFbW7hN1Z-NBuRmJr5Tq526uIT0T4WY=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"KNOW\" Type Beat | Sad Storytelling Type Beat",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "hDTyZMZmW6Y",
+            "duration": "3:31",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FvYLIdAgF7DKIFQE4eDvFfJZTjAfpHc3IjmdNeejFwN0YCEATFbW7hN1Z-NBuRmJr5Tq526uIT0T4WY=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Sad Emotional Rap | NF Type Beat - My Story",
+            "artist": "Eleffan Beats",
+            "video_id": "_NYyX5PpawY",
+            "duration": "2:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/di3FdmhLn4MgBkr8yiFid3K48LoJOefQRBHUOvuhOj05s2xaLdV5XymhgQHZFT679dohJn870OaZ0u_V=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"LIES\" Type Beat | Sad Storytelling Type Beat",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "jHgdDImU3yM",
+            "duration": "3:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FvYLIdAgF7DKIFQE4eDvFfJZTjAfpHc3IjmdNeejFwN0YCEATFbW7hN1Z-NBuRmJr5Tq526uIT0T4WY=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NF \"TRUTH\" Type Beat | NF Type Beat 2023",
+            "artist": "oye vvk, Dia Beatz",
+            "video_id": "8rEPLbJOL00",
+            "duration": "4:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/OULHWnr0ak2VtxVcUfFDmg-alR2Ki9qRAuVbT3QrdYLMbJt3ozB8aCzx_RXrqhl8C4J1PtMeUBXfiTc-=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Emotional Rap Beat - \"Inner Demons\" | R&B Type Beat | Sad Rap Instrumental 2025",
+            "artist": "Sombre Beats, Nader Beats",
+            "video_id": "0RwOdPE1hFE",
+            "duration": "3:34",
+            "thumbnail_url": "https://lh3.googleusercontent.com/pPHud6q9FWni0NmsOq5MDydjF5cJiwfbTjZEb0FJ4pqWb4J_W5b_69tcu77z5i6sEN4iH1nCzpec0Ps=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Lost (Storytelling Rap Beat Mix)",
+            "artist": "ElementBeatz",
+            "video_id": "CvDbioQlSAE",
+            "duration": "3:03",
+            "thumbnail_url": "https://lh3.googleusercontent.com/vaWKQ67vtVJ3VW6d28_cu-hYZIcoU-F4_fydI815ezPB9r-LuxuYA_LjHHUwOh3vB2up-VblP40jJzo=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "(Emotional Rap) Deep Storytelling Rap Beat \u2013 Hard-hitting Vibes",
+            "artist": "DyinoBeats",
+            "video_id": "QgsvpmaamaE",
+            "duration": "3:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ZdWm1AvwYpZaptJO3EuOjCGhc0eZnRfosoOkSW4qVYorYAiLGIMFCyDdOtXoujctd95qc5QsHQcfq4N6=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "get me some nf songs",
+        "mood": {
+          "primary_mood": "Introspective",
+          "secondary_mood": "Reflective",
+          "playlist_title": "Therapy Sessions",
+          "keywords": [
+            "NF",
+            "Hip-Hop",
+            "Rap",
+            "Emotional",
+            "Conscious"
+          ],
+          "narrative": "Strictly songs by NF.",
+          "recommended_genres": [
+            "Hip-Hop",
+            "Conscious Hip-Hop",
+            "Pop Rap"
+          ]
+        },
+        "transitions": [
+          "Easing in with MAMA - NF to set the introspective tone.",
+          "Let us lift the room with SUFFICE - NF.",
+          "Here comes your emotional anchor: Remember This - NF.",
+          "We ramp the energy with RUNNING - NF before landing on STORY - NF."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Introspective",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Reflective",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "MAMA",
+            "artist": "NF",
+            "video_id": "7Q5sMpOCNlk",
+            "duration": "3:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/leJKsIpbJSxJ-Q6S5sOH3d4I4sALCOvZfJ8tPACR7je5nsnLM6KnxA1BLmjC1pId1DQk5ZUI-E0DjNwGSg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Paralyzed",
+            "artist": "NF",
+            "video_id": "UXJOIBncI0I",
+            "duration": "4:31",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9_KpEI0Yi6KCareAvwSnG3d0pNgw3PA1bQWkxyrVd674PUhcqZhiOwwVdH4QP5VR6Np8ealWGtjRBns=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "When I Grow Up",
+            "artist": "NF",
+            "video_id": "nBS1LR0S8ks",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Warm Up",
+            "artist": "NF",
+            "video_id": "a5-qVyxJBq8",
+            "duration": "3:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EVUPpBnW8OJ7NpR1xIiqBhTOMFA8xaTh0Birn4RRBv1txR_wSNnHDk1ajpv9LGNRQM2iRHM0h-dHzVk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "FEAR",
+            "artist": "NF",
+            "video_id": "AeF4cXJcUjY",
+            "duration": "4:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/imPZSVmXz9D8T-2UDJ64HlSaO44ry8BEX6kdXI44dw5RwiHV1ZHP71ILFDHQTjDKhxcGYFnJ992AL0lu=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Remember This",
+            "artist": "NF",
+            "video_id": "aZmXuysW6Wo",
+            "duration": "4:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/E3J-qjxgo0Yumxq7JFNmT2ih57nuZSvSaAyAqf914XoA_XVi0YKaS_c8daa5wNB9KkS-2dMpunGUXEF9Lg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hate Myself",
+            "artist": "NF",
+            "video_id": "6io0g7WuHaI",
+            "duration": "4:21",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "SUFFICE",
+            "artist": "NF",
+            "video_id": "CpL2k3cOj1A",
+            "duration": "4:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/leJKsIpbJSxJ-Q6S5sOH3d4I4sALCOvZfJ8tPACR7je5nsnLM6KnxA1BLmjC1pId1DQk5ZUI-E0DjNwGSg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Time",
+            "artist": "NF",
+            "video_id": "AkmJop2WUQA",
+            "duration": "4:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "PRIDEFUL",
+            "artist": "NF",
+            "video_id": "40N7vFn_0es",
+            "duration": "3:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Destiny",
+            "artist": "NF",
+            "video_id": "CV0RwKxCncU",
+            "duration": "4:00",
+            "thumbnail_url": "https://lh3.googleusercontent.com/E3J-qjxgo0Yumxq7JFNmT2ih57nuZSvSaAyAqf914XoA_XVi0YKaS_c8daa5wNB9KkS-2dMpunGUXEF9Lg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Therapy Session",
+            "artist": "NF",
+            "video_id": "-7wRSJNkljc",
+            "duration": "5:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/7Z-bdNiaqbrdMRaPYhVEFNwFILuZs7THMdH8hEVp8sGDyAYUlxTcgU9GtIgpxrN-lkdLHTAmyIeRMac=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "The Search",
+            "artist": "NF",
+            "video_id": "Zh9p-6JfrSo",
+            "duration": "4:09",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "RUNNING",
+            "artist": "NF",
+            "video_id": "NJB8XcQhKwQ",
+            "duration": "4:14",
+            "thumbnail_url": "https://lh3.googleusercontent.com/leJKsIpbJSxJ-Q6S5sOH3d4I4sALCOvZfJ8tPACR7je5nsnLM6KnxA1BLmjC1pId1DQk5ZUI-E0DjNwGSg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "STORY",
+            "artist": "NF",
+            "video_id": "1YzAOsNAdG0",
+            "duration": "4:40",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "don moen uncharted territory",
+        "mood": {
+          "primary_mood": "Hopeful",
+          "secondary_mood": "Spiritual",
+          "playlist_title": "Divine Navigations",
+          "keywords": [
+            "Don Moen",
+            "Uncharted Territory",
+            "worship",
+            "faith",
+            "spiritual journey",
+            "praise"
+          ],
+          "narrative": "Embark on a spiritual expedition through 'Uncharted Territory' with the timeless and reassuring sounds of Don Moen. This playlist is curated for moments of divine exploration, guiding you with songs of unwavering faith, trust, and the promise of God's presence in every new beginning. Let these melodies be your compass as you navigate the unknown, finding comfort and courage in His steadfast love.",
+          "recommended_genres": [
+            "Christian Worship",
+            "Gospel",
+            "Praise & Worship",
+            "Contemporary Christian Music"
+          ]
+        },
+        "transitions": [
+          "Easing in with Uncharted Territory - Don Moen to set the hopeful tone.",
+          "Let us lift the room with I'm Gonna Be Ready - Yolanda Adams.",
+          "Here comes your emotional anchor: Welcome Holy Spirit - Oasis Worship.",
+          "We ramp the energy with Jireh (feat. Chandler Moore & Naomi Raine) - Elevation Worship, Maverick City Music before landing on Too Faithful - Moses Bliss."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Hopeful",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Spiritual",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Uncharted Territory",
+            "artist": "Don Moen",
+            "video_id": "hyupwtMlVBk",
+            "duration": "5:30",
+            "thumbnail_url": "https://lh3.googleusercontent.com/gUK43VPiQehIxNKOqkrRd6trf5BFpj7DelSTHMO_P4BWNhnFsye01SVWQ8hUxWpgfQHRp-G3M-VH789Eng=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Walking By Faith",
+            "artist": "William Augusto, Soaking in His Presence",
+            "video_id": "33Qnv9WW_es",
+            "duration": "1:11:24",
+            "thumbnail_url": "https://lh3.googleusercontent.com/mfZHSgFDydIIeHdPLCSC9xbubroPY7DiMMLWwNn-fnBq3l6qPDlKGVnXyxzca5EEExgfAgdgq-MHJYQT=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Our Father",
+            "artist": "Don Moen",
+            "video_id": "XAkgb2Iw-1s",
+            "duration": "5:45",
+            "thumbnail_url": "https://lh3.googleusercontent.com/GTWBEoTScGq-71OAGd6T9pNvr1-kdMAAXaD0j1tJNOWMuMIBbrIULJLu6WJCSuTHQbpKrTr6vXGBJdjLTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Uncharted Territory",
+            "artist": "Don Moen",
+            "video_id": "OnLx9vgWa4c",
+            "duration": "5:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/7xC_DohcLysaJiHgNUhEEJ6pNXKKl4Y5222bZQwzThtXmCKuXITsDc6kP3_7Hm8GsTNYAGn8tqZSPokVfw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Welcome Holy Spirit",
+            "artist": "Oasis Worship",
+            "video_id": "vs7EhUlYOpw",
+            "duration": "5:06",
+            "thumbnail_url": "https://lh3.googleusercontent.com/_ALPiYvPsS05AilWw-OOZtw0cK63p3xr6sZlidiexvx-XCRVcYqoZzKCZOH2aOjaoc9uWaIDiKDsXuqu=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Graves Into Gardens (Live)",
+            "artist": "Elevation Worship, Brandon Lake",
+            "video_id": "NYA4DHdBKnY",
+            "duration": "7:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/tA96I9w1IUcrA5j5huvM8w2J-sBIhDIMG6nQdEvcNyRU_pVa3EeI6O5XWE6Y414MzT7a3L0tzfezJIJe=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Nobody Greater",
+            "artist": "VaShawn Mitchell",
+            "video_id": "uJIFnAt8EaI",
+            "duration": "6:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EKbU4bDguynlbG0xbGivjvuFvj9snUcdXRI5YFXg9O-E5_RZHLDPsbKJ-7pgJ42xAJcWu96zuxfzPXM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "I'm Gonna Be Ready",
+            "artist": "Yolanda Adams",
+            "video_id": "hmHWiUv4wyM",
+            "duration": "5:38",
+            "thumbnail_url": "https://lh3.googleusercontent.com/BSfyHnz0Y52jc8ta0dY2s7NCB3MS0eX6_LaHZLlcI-YgwnvQgt3iPeTjaoYL3bWwmjFTq4LRj0YPtv0=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "LION (feat. Chris Brown & Brandon Lake)",
+            "artist": "Elevation Worship",
+            "video_id": "RdZeULtJw-w",
+            "duration": "5:55",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rLvlKb6xrZ1jTNPe-Nihmx3HujLLXufvu4dJ9kDP9t4H9akPjYR7uOSjnmvUdufBz10-qRBz0RRogoDpOg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Jireh (feat. Chandler Moore & Naomi Raine)",
+            "artist": "Elevation Worship, Maverick City Music",
+            "video_id": "m_ffLNBu5_o",
+            "duration": "9:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FXyiJ7ahxvJfeMCMZ_2xcUrWF3IfiVLbn2d_qYgEuc8x8VeSS8ZWtJwLhbLeXK3kTAttzV_y8rDzCTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Believe For It (Live)",
+            "artist": "CeCe Winans",
+            "video_id": "ZYwSKZ8D1oM",
+            "duration": "8:23",
+            "thumbnail_url": "https://lh3.googleusercontent.com/6DcnkeOZWkSpDcNscJE-6HvrxqiDGqbZcB4rO42DphoJtWSyzlwMcxhpy04cBJRsy8_KpyjXJR5TFnzr=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Goodness of God (Live)",
+            "artist": "CeCe Winans",
+            "video_id": "tO3OLKg8Eww",
+            "duration": "4:58",
+            "thumbnail_url": "https://lh3.googleusercontent.com/6DcnkeOZWkSpDcNscJE-6HvrxqiDGqbZcB4rO42DphoJtWSyzlwMcxhpy04cBJRsy8_KpyjXJR5TFnzr=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Jireh (feat. Chandler Moore & Naomi Raine)",
+            "artist": "Elevation Worship, Maverick City Music",
+            "video_id": "m_ffLNBu5_o",
+            "duration": "9:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FXyiJ7ahxvJfeMCMZ_2xcUrWF3IfiVLbn2d_qYgEuc8x8VeSS8ZWtJwLhbLeXK3kTAttzV_y8rDzCTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Too Faithful",
+            "artist": "Moses Bliss",
+            "video_id": "x-7vaXjJgOI",
+            "duration": "6:11",
+            "thumbnail_url": "https://lh3.googleusercontent.com/y1lst_QDaE5tamWLsDjzv0DZoKqAaSuOr-Ved6XNTBCjgz2ulR6P_oSJ_2IcaHcHlDStll_0x9c2J4Gu=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Reflective",
+            "secondary_mood": "Spiritual",
+            "playlist_title": "Psalms & Echoes",
+            "keywords": [
+              "David",
+              "Psalms",
+              "Spiritual",
+              "Ancient",
+              "Hymns",
+              "Worship"
+            ],
+            "narrative": "This playlist seeks to capture the timeless spirit and profound emotional depth found within the songs attributed to King David, blending ancient reverence with modern contemplation.",
+            "recommended_genres": [
+              "Sacred Music",
+              "Classical",
+              "Folk",
+              "Ambient"
+            ]
+          },
+          {
+            "primary_mood": "Worship",
+            "secondary_mood": "Peaceful",
+            "playlist_title": "Moen's Majesty",
+            "keywords": [
+              "Don Moen",
+              "Worship",
+              "Gospel",
+              "Christian",
+              "Contemporary Christian"
+            ],
+            "narrative": "Strictly songs by Don Moen. Prepare for an uplifting and reflective journey through the inspiring melodies and powerful lyrics of Don Moen's worship anthems. This playlist is curated for moments of devotion and spiritual contemplation.",
+            "recommended_genres": [
+              "Contemporary Christian",
+              "Worship",
+              "Gospel",
+              "Praise & Worship"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "THE SONGS OF DAVID",
+        "mood": {
+          "primary_mood": "Reflective",
+          "secondary_mood": "Spiritual",
+          "playlist_title": "Psalms & Echoes",
+          "keywords": [
+            "David",
+            "Psalms",
+            "Spiritual",
+            "Ancient",
+            "Hymns",
+            "Worship"
+          ],
+          "narrative": "This playlist seeks to capture the timeless spirit and profound emotional depth found within the songs attributed to King David, blending ancient reverence with modern contemplation.",
+          "recommended_genres": [
+            "Sacred Music",
+            "Classical",
+            "Folk",
+            "Ambient"
+          ]
+        },
+        "transitions": [
+          "Easing in with 3 Hours of Soaking in His Presence - William Augusto to set the reflective tone.",
+          "Let us lift the room with O God, Show Mercy to Us (Psalm 67C) - Matthew David Montgomery.",
+          "Here comes your emotional anchor: Yahweh - David G.",
+          "We ramp the energy with The Lord Is My Shepherd (23rd Psalm) (The Ministry Years Volume 2 Album Version) - Keith Green before landing on Psalms for Every Day (New Jerusalem version): Psalm 135: Hymn of praise - David Guthrie."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Reflective",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Spiritual",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "3 Hours of Soaking in His Presence",
+            "artist": "William Augusto",
+            "video_id": "WAVO1_7cABU",
+            "duration": "3:13:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/DxmS4R8P5pS-O0K2_AG2Y1v1b35hAWQSLuutVeqeil9Wv45DflOGokUQKheTYcKxP3CgPw_-KGd-T_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Spontaneous Instrumental Worship",
+            "artist": "Deeper Heaven Music",
+            "video_id": "uDqOLqAJPqI",
+            "duration": "1:00:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/MZ4ROgiIvj57cJKT4U7rXepEgD0n0EDrM7ryHUBXsCZe3vWK17xdhMch9HGDDUgEOEAQCXqNHEfEJuwy=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Soaking in His Presence Yeshua (Instrumental Worship)",
+            "artist": "William Augusto",
+            "video_id": "4HkQtb5irO0",
+            "duration": "3:22:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/U3fhydBPP9hB8nZXTduCnBEe-GqT_CLChd_OoHNR59mRCbEAz7xpBAuFq38KqIxyOpYO3jf_fr2PqErP=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Shelter Me (Psalm 91 in Song \u2013 Hebrew & English Worship)",
+            "artist": "Elohim Songs",
+            "video_id": "TZ1AypALnaw",
+            "duration": "11:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/RETzvSPqJIVDlHi1BXdMvgmcb27olAU-a3KvE1EtSZLjcm5ED-e6k7CJwDBH70CRn0P6v0JZm_1l2u3R=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Psalms & Hymns (Live, Spontaneous)",
+            "artist": "David & Nicole Binion",
+            "video_id": "3WNaBT8d_sE",
+            "duration": "5:24",
+            "thumbnail_url": "https://lh3.googleusercontent.com/n8JZTUWF-vyQjdDESEnVrdUb23bjY8pWo6VA0uRWFtVNjAJEHh1qZnv3LcWiIMQ9Lj05vuhWaONt_1FU_A=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Yahweh",
+            "artist": "David G",
+            "video_id": "ZG9zdAcX5o4",
+            "duration": "5:25",
+            "thumbnail_url": "https://lh3.googleusercontent.com/wdTgLXCRXU3skodtf1jL_4wfzINAZn65HwO1rwJj-yZ-J8MsvMjMoKSs9vAKNP0JT_aLqzCxi15rdfpB=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ancient Words",
+            "artist": "Michael W. Smith",
+            "video_id": "FOi1Rwt_kCI",
+            "duration": "4:37",
+            "thumbnail_url": "https://lh3.googleusercontent.com/yAMtCcQSRklOt8rKomMtFBVzQ5W5TOpc303GCQEtxcvz0DrrGcOKvL3s2LWYuoiP7JVRIyx3s-zyuTObNg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "O God, Show Mercy to Us (Psalm 67C)",
+            "artist": "Matthew David Montgomery",
+            "video_id": "SmurNcE2qgg",
+            "duration": "2:53",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kOpomt3k7UI5yyhHmDE1DdDCug6QHdiZgWGx9zWIT9F85Sk-8HehsjQ9QhTk3Xb00PID9SU6lKql0L_dbw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Psalm 23 (I Am Not Alone)",
+            "artist": "People & Songs",
+            "video_id": "XjJNu7X0gDE",
+            "duration": "6:48",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Z-ZqqIPgKi7m_q0QV14guhJeatNpzA9rXjw3Y0kFQHMMnOT6mjz2FBGeTnkV76C_9k-nagAzT4Aq8HJM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Psalm 15: Lord, Who May Abide in Your Tabernacle",
+            "artist": "David R. Erb",
+            "video_id": "zxFX2pEqlmA",
+            "duration": "1:12",
+            "thumbnail_url": "https://lh3.googleusercontent.com/49TP1fjahuZPkyvm5VavUHbyjoiSTUX-dhUoa6UpZ5WkQ4_36ktlXcD-OIUwZIV3N7uWEiEhB4g5x7Hd=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Psalm 46 (Lord of Hosts)",
+            "artist": "Shane & Shane",
+            "video_id": "3lH2IJEY1sY",
+            "duration": "5:03",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rJJUhFINMr0C1ToNiJe5WsEcmM9yyOOY3Pu0Bm9omXlZiM5Lw_k-RX03nnI7tUzzKY-uZCSsDfNcRD05=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Psalm 23: The Lord Is My Shepherd",
+            "artist": "David R. Erb",
+            "video_id": "fkM7kYNMPZQ",
+            "duration": "2:07",
+            "thumbnail_url": "https://lh3.googleusercontent.com/49TP1fjahuZPkyvm5VavUHbyjoiSTUX-dhUoa6UpZ5WkQ4_36ktlXcD-OIUwZIV3N7uWEiEhB4g5x7Hd=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "His Love Endures Forever (Psalm 136)",
+            "artist": "David F. Anderson",
+            "video_id": "HJbKu2-hFjM",
+            "duration": "2:48",
+            "thumbnail_url": "https://lh3.googleusercontent.com/jGhh_hUJjFgOEfxfPw1sruKyrvJFDDRLGs58G88MPn9upd-yz6AqkoetHDay93_MuOw2iP-9hsDA1FHDxw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "The Lord Is My Shepherd (23rd Psalm) (The Ministry Years Volume 2 Album Version)",
+            "artist": "Keith Green",
+            "video_id": "7yFH3Ffdgc4",
+            "duration": "4:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/lN9j9TXOqJ7wVsq5hTeiFqEAL9qDSKh47-HRV7eDrtzEFUk7Di2nqvC5VV2b4z-zluz0lI6v7xmJXTXK=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Psalms for Every Day (New Jerusalem version): Psalm 135: Hymn of praise",
+            "artist": "David Guthrie",
+            "video_id": "f2z9o0mykJI",
+            "duration": "2:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/mbIT7lUO9f8RyugJ6iCR9mQKgox6phiB-icNhBYrZzLX4e5NqCEC8vbbRrjFeCnnShyMTOANMdcsqQiS=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Worship",
+            "secondary_mood": "Peaceful",
+            "playlist_title": "Moen's Majesty",
+            "keywords": [
+              "Don Moen",
+              "Worship",
+              "Gospel",
+              "Christian",
+              "Contemporary Christian"
+            ],
+            "narrative": "Strictly songs by Don Moen. Prepare for an uplifting and reflective journey through the inspiring melodies and powerful lyrics of Don Moen's worship anthems. This playlist is curated for moments of devotion and spiritual contemplation.",
+            "recommended_genres": [
+              "Contemporary Christian",
+              "Worship",
+              "Gospel",
+              "Praise & Worship"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "don moen songs",
+        "mood": {
+          "primary_mood": "Worship",
+          "secondary_mood": "Peaceful",
+          "playlist_title": "Moen's Majesty",
+          "keywords": [
+            "Don Moen",
+            "Worship",
+            "Gospel",
+            "Christian",
+            "Contemporary Christian"
+          ],
+          "narrative": "Strictly songs by Don Moen. Prepare for an uplifting and reflective journey through the inspiring melodies and powerful lyrics of Don Moen's worship anthems. This playlist is curated for moments of devotion and spiritual contemplation.",
+          "recommended_genres": [
+            "Contemporary Christian",
+            "Worship",
+            "Gospel",
+            "Praise & Worship"
+          ]
+        },
+        "transitions": [
+          "Easing in with Thank You Lord - Don Moen to set the worship tone.",
+          "Let us lift the room with No Condemnation - Don Moen.",
+          "Here comes your emotional anchor: God Will Make a Way - Don Moen.",
+          "We ramp the energy with Give Thanks - Don Moen before landing on Trust and Obey - Don Moen."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Worship",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Peaceful",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Thank You Lord",
+            "artist": "Don Moen",
+            "video_id": "j5FdAPUEf7w",
+            "duration": "5:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ctbj5qX_9_UdpIIotJtq_dtZCXgl4-TrUVv-17AMc7KNBg74IYrhILL8DpQlvU_Ey4xYSAbNowMGsrWi=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "God With Us Medley",
+            "artist": "Don Moen",
+            "video_id": "ZTCinDh7bJE",
+            "duration": "7:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/UNZAKT8M6ggVUxwgD1POubUDW6Vtw5KBtin8QIrIchy2uc067PMJnQ1KFamhUUooaZAkwhjmHMZtiTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Still / Be Still And Know (Medley) (feat. Integrity's Hosanna! Music)",
+            "artist": "Don Moen",
+            "video_id": "3b75eOf4n-c",
+            "duration": "6:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/K2o7eVyf65BXOTVPqaQQFgZ3DwoONheTlo_uXxTWNrsNRXjvI2lM-yZJJs_hkeq54y4YZ1mqufjokns=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hiding Place",
+            "artist": "Don Moen",
+            "video_id": "ED0ynbBqM-I",
+            "duration": "7:40",
+            "thumbnail_url": "https://lh3.googleusercontent.com/K2o7eVyf65BXOTVPqaQQFgZ3DwoONheTlo_uXxTWNrsNRXjvI2lM-yZJJs_hkeq54y4YZ1mqufjokns=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "I Offer My Life",
+            "artist": "Don Moen",
+            "video_id": "m5usOUFbhGI",
+            "duration": "4:28",
+            "thumbnail_url": "https://lh3.googleusercontent.com/GTWBEoTScGq-71OAGd6T9pNvr1-kdMAAXaD0j1tJNOWMuMIBbrIULJLu6WJCSuTHQbpKrTr6vXGBJdjLTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "God Will Make a Way",
+            "artist": "Don Moen",
+            "video_id": "EjoQp4DGj4E",
+            "duration": "4:25",
+            "thumbnail_url": "https://lh3.googleusercontent.com/qPw4lD5V9nbbHTfI9r4gssGJN_cwprt-Gvc8XyPfnKWSAaC6nN6Mj53meEpfT4xNzepBG9s2tUwGk4ho=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Be Magnified",
+            "artist": "Don Moen",
+            "video_id": "YNJuHvdmhaI",
+            "duration": "4:42",
+            "thumbnail_url": "https://lh3.googleusercontent.com/UeStB5v_2Mpvtot2xRPLvsqR0Wp4Fsz1AEfcbGPZHnqexyl7GuTHL1jveQ1il8t_yrIFoKiHeXGYV0AunQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "No Condemnation",
+            "artist": "Don Moen",
+            "video_id": "b97CSubI9x8",
+            "duration": "6:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/LGO3ENOSH_8BY3kSAKM2_o3w-ViOqyOFxwkKK_ZaAG37T62FEpV6tln6gGb4ThZSkw_wxLtwv1eZdplv=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "As We Worship You (Live) (feat. Integrity's Hosanna! Music)",
+            "artist": "Don Moen",
+            "video_id": "N9RWGMcPyD4",
+            "duration": "7:34",
+            "thumbnail_url": "https://lh3.googleusercontent.com/bpZiufKQPnA7QavPg_43JpkeRQvn9gn5qzStsCpKuUdr9Goo8kzcTv4O0KTxSibgIFGCBIfkz-D9PUFomg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "God Will Make a Way",
+            "artist": "Don Moen",
+            "video_id": "RYV7cZ7DAEQ",
+            "duration": "4:00",
+            "thumbnail_url": "https://lh3.googleusercontent.com/UNZAKT8M6ggVUxwgD1POubUDW6Vtw5KBtin8QIrIchy2uc067PMJnQ1KFamhUUooaZAkwhjmHMZtiTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Shout to the Lord",
+            "artist": "Don Moen",
+            "video_id": "KIf_STsyN2E",
+            "duration": "5:07",
+            "thumbnail_url": "https://lh3.googleusercontent.com/UNZAKT8M6ggVUxwgD1POubUDW6Vtw5KBtin8QIrIchy2uc067PMJnQ1KFamhUUooaZAkwhjmHMZtiTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Give Thanks",
+            "artist": "Don Moen",
+            "video_id": "GwSzuupuE2g",
+            "duration": "4:45",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rCJRBvgX2M5aEzpcgrgVBGOtl3nNquzP4LphGWcCoDE8WbWjwUF49knPLSfgJda2iRAKaNSXzArfz6ZJ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "I Just Want To Be Where You Are",
+            "artist": "Don Moen",
+            "video_id": "Jwyp5OSSnMI",
+            "duration": "4:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rCJRBvgX2M5aEzpcgrgVBGOtl3nNquzP4LphGWcCoDE8WbWjwUF49knPLSfgJda2iRAKaNSXzArfz6ZJ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Give Thanks",
+            "artist": "Don Moen",
+            "video_id": "PNFunlv1ysU",
+            "duration": "3:38",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ti40FKIprYl9oB67dr9Bz3oN2sObkivM5CLcZw1kXH4WjRgBMn72tSqFDL3TtE5333xddL6wD6WsglHfLA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Trust and Obey",
+            "artist": "Don Moen",
+            "video_id": "tA8jMJLLFXg",
+            "duration": "4:31",
+            "thumbnail_url": "https://lh3.googleusercontent.com/67vwZM_5rm2v5FNJQwAcNihe5aueCNEH1NE3qmtVXBbSYLflfPE43pQOHnTky9FiSgzcNVM81GpWJZY=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "phil wikham what an awesome god",
+        "mood": {
+          "primary_mood": "Uplifting",
+          "secondary_mood": "Awe-inspiring",
+          "playlist_title": "Divine Echoes",
+          "keywords": [
+            "Phil Wickham",
+            "What An Awesome God",
+            "Christian worship",
+            "praise",
+            "spiritual",
+            "inspirational"
+          ],
+          "narrative": "Feel the spirit lift with powerful anthems that celebrate the majesty and grace of God. This playlist is crafted for moments of deep reflection, joyous praise, and heartfelt worship, echoing the profound message found in songs like Phil Wickham's 'What An Awesome God.'",
+          "recommended_genres": [
+            "Christian Worship",
+            "Contemporary Christian",
+            "Gospel",
+            "Praise & Worship"
+          ]
+        },
+        "transitions": [
+          "Easing in with What An Awesome God - Phil Wickham to set the uplifting tone.",
+          "Let us lift the room with Awesome God - Rich Mullins.",
+          "Here comes your emotional anchor: Awesome God (Live) - Michael W. Smith.",
+          "We ramp the energy with Song Of The Saints - Phil Wickham before landing on Song Of The Saints - Phil Wickham."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Uplifting",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Awe-inspiring",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "What An Awesome God",
+            "artist": "Phil Wickham",
+            "video_id": "-Jbj9e9dGrY",
+            "duration": "3:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/TEFtOaMuGj0nTSGBbZ5DLELudAwxg-mDJaN0ki1kcmNvTKIpJtMAoJj_ctqfzCkM4gGvqNlrVHrBa0CX=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "What An Awesome God (Choir Version)",
+            "artist": "Phil Wickham",
+            "video_id": "TMTHQC5L5D8",
+            "duration": "3:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/TEFtOaMuGj0nTSGBbZ5DLELudAwxg-mDJaN0ki1kcmNvTKIpJtMAoJj_ctqfzCkM4gGvqNlrVHrBa0CX=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "This Is Amazing Grace",
+            "artist": "Phil Wickham",
+            "video_id": "9UrisfM3QJA",
+            "duration": "4:40",
+            "thumbnail_url": "https://lh3.googleusercontent.com/BqIhdAEjSlgCwjHz96wazQKJ6TIE6Tmxfd-d1jKaOKdit_bvPlePwj0HmwRfXeaoo8gPkIHLpCGiYCj7tg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "How Great Is Our God",
+            "artist": "Chris Tomlin",
+            "video_id": "BcRFw2AeIs0",
+            "duration": "5:06",
+            "thumbnail_url": "https://lh3.googleusercontent.com/LOHaRCwFtnqTRF0XIj58gQuMwK8QORPksTXrMBno9XV9ede1LXoUxAE7ZkNehekyWu5_KvoySq7-R-8JJw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "House of the Lord",
+            "artist": "Phil Wickham",
+            "video_id": "nZGyAztvej0",
+            "duration": "4:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/spslK5zN5yu_zq8e3APk188e12_y1HeAWT22mjP6sgdmZ-ms738wX5Fc3ya9p_eXi94bY-yjFtPpKVQU=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Awesome God (Live)",
+            "artist": "Michael W. Smith",
+            "video_id": "uh6eKJkQ9l4",
+            "duration": "5:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/5ZSD7Qy4iv28DXHkuYf75qPrZGBsOc-OK9xd2Oi0nt38sBLvxHCw4w_wzDAZeGRlso4sMDvkuEIHzXRQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Graves Into Gardens (Live)",
+            "artist": "Elevation Worship, Brandon Lake",
+            "video_id": "NYA4DHdBKnY",
+            "duration": "7:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/tA96I9w1IUcrA5j5huvM8w2J-sBIhDIMG6nQdEvcNyRU_pVa3EeI6O5XWE6Y414MzT7a3L0tzfezJIJe=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "LION (feat. Chris Brown & Brandon Lake)",
+            "artist": "Elevation Worship",
+            "video_id": "RdZeULtJw-w",
+            "duration": "5:55",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rLvlKb6xrZ1jTNPe-Nihmx3HujLLXufvu4dJ9kDP9t4H9akPjYR7uOSjnmvUdufBz10-qRBz0RRogoDpOg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Awesome God",
+            "artist": "Rich Mullins",
+            "video_id": "nBnzAepXOE8",
+            "duration": "3:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/do7mEhVCc7xKmyPFvKq0i141H_yFeu5-yl9Ehv2T3Ko45Htok41GHZZRDeIgyVKhMhbVANgaIPg16J48Fg=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Awesome",
+            "artist": "Charles Jenkins & Fellowship Chicago",
+            "video_id": "ig9W-PzTuTQ",
+            "duration": "5:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/NX8hXiNJ8kKB7aliJg15iYiaJsbdKcG8GT1gXCccR1RFS96k0RPfFpJPwhs-mIDGTVeDpAaX7QtvB8tH=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Worthy of My Song (Worthy of It All) (feat. Mav City Gospel Choir)",
+            "artist": "Phil Wickham, Chandler Moore, Maverick City Music",
+            "video_id": "iEhW71lKMjA",
+            "duration": "8:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/_ZFYMITVg_-l85yyu3KosY0m2DnkanJAV7X1HIqwF5zJ6L_embB8G1R9wWs8BhqNS_3kUMHfTTSWqlQk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Goodness of God (Live)",
+            "artist": "CeCe Winans",
+            "video_id": "tO3OLKg8Eww",
+            "duration": "4:58",
+            "thumbnail_url": "https://lh3.googleusercontent.com/6DcnkeOZWkSpDcNscJE-6HvrxqiDGqbZcB4rO42DphoJtWSyzlwMcxhpy04cBJRsy8_KpyjXJR5TFnzr=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "You Say",
+            "artist": "Lauren Daigle",
+            "video_id": "g_49NQI3XTQ",
+            "duration": "4:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Vde9RotbP4uIFPZxU2Kc3vfDFRLuatkNUP61NgeA65hbULTIgHmXJBZkN1tLk1iQ6b9na8cbn1L1iWd8nw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Living Hope",
+            "artist": "Phil Wickham",
+            "video_id": "CuasJYdwwUc",
+            "duration": "5:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/wkXJ0J-E3GPG0MHExye6dzyoner2AaqE3zPrd5pkpQwss1cwO_l4xrGhDsPg7PPlfZ5RcKP6BesWYLwg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Song Of The Saints",
+            "artist": "Phil Wickham",
+            "video_id": "S9TPueVKq_E",
+            "duration": "6:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/T7pDqwJp0Y_XbYFXccGPvyyw-IzcQqp_ToTLRr-VcuJy_rqEdwzBiNDlKfdler51dWisqZXoO2afeTiv=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Song Of The Saints",
+            "artist": "Phil Wickham",
+            "video_id": "S9TPueVKq_E",
+            "duration": "6:01",
+            "thumbnail_url": "https://lh3.googleusercontent.com/T7pDqwJp0Y_XbYFXccGPvyyw-IzcQqp_ToTLRr-VcuJy_rqEdwzBiNDlKfdler51dWisqZXoO2afeTiv=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Uplifting",
+            "secondary_mood": "Spiritual",
+            "playlist_title": "Spirit Soars",
+            "keywords": [
+              "Phil Wickham",
+              "Worship",
+              "Christian",
+              "Hopeful",
+              "Spiritual",
+              "Uplifting"
+            ],
+            "narrative": "Let your spirit soar on wings of contemporary worship, guided by the heartfelt melodies and inspiring lyrics of Phil Wickham. This playlist is an invitation to reflection, gratitude, and a profound sense of peace, designed to lift your soul and brighten your day.",
+            "recommended_genres": [
+              "Contemporary Christian",
+              "Worship",
+              "Pop",
+              "Acoustic"
+            ]
+          },
+          {
+            "primary_mood": "Uplifting",
+            "secondary_mood": "Spiritual",
+            "playlist_title": "Sacred Hebrew Whispers",
+            "keywords": [
+              "gospel",
+              "hebrew",
+              "worship",
+              "praise",
+              "spiritual",
+              "israel"
+            ],
+            "narrative": "Journey to the heart of ancient traditions, where the soulful power of gospel music intertwines with the sacred sounds of the Hebrew language. This collection is a bridge between worlds, offering songs of hope, praise, and devotion that resonate with a timeless spiritual energy.",
+            "recommended_genres": [
+              "Gospel",
+              "Hebrew Worship",
+              "Jewish Liturgical Music",
+              "World Music"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "phil wikham",
+        "mood": {
+          "primary_mood": "Uplifting",
+          "secondary_mood": "Spiritual",
+          "playlist_title": "Spirit Soars",
+          "keywords": [
+            "Phil Wickham",
+            "Worship",
+            "Christian",
+            "Hopeful",
+            "Spiritual",
+            "Uplifting"
+          ],
+          "narrative": "Let your spirit soar on wings of contemporary worship, guided by the heartfelt melodies and inspiring lyrics of Phil Wickham. This playlist is an invitation to reflection, gratitude, and a profound sense of peace, designed to lift your soul and brighten your day.",
+          "recommended_genres": [
+            "Contemporary Christian",
+            "Worship",
+            "Pop",
+            "Acoustic"
+          ]
+        },
+        "transitions": [
+          "Easing in with Living Hope - Phil Wickham to set the uplifting tone.",
+          "Let us lift the room with House of the Lord - Phil Wickham.",
+          "Here comes your emotional anchor: Hymn of Heaven - Phil Wickham.",
+          "We ramp the energy with People Of Heaven - Phil Wickham, Brandon Lake before landing on The Secret Place (feat. Madison Cunningham) - Phil Wickham."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Uplifting",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Spiritual",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Living Hope",
+            "artist": "Phil Wickham",
+            "video_id": "CuasJYdwwUc",
+            "duration": "5:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/wkXJ0J-E3GPG0MHExye6dzyoner2AaqE3zPrd5pkpQwss1cwO_l4xrGhDsPg7PPlfZ5RcKP6BesWYLwg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Battle Belongs",
+            "artist": "Phil Wickham",
+            "video_id": "IY95bVGxDko",
+            "duration": "4:48",
+            "thumbnail_url": "https://lh3.googleusercontent.com/spslK5zN5yu_zq8e3APk188e12_y1HeAWT22mjP6sgdmZ-ms738wX5Fc3ya9p_eXi94bY-yjFtPpKVQU=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "10,000 Reasons (Bless The Lord) (Live)",
+            "artist": "Matt Redman",
+            "video_id": "2KaHr_5U9Cg",
+            "duration": "5:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CS4CJ-Gd8yFT9bIenXDW9Xdt2z6J-TGapC-o8UweF2L_Efsq5D9ywsqszpZhOOQBtUgsQJ4K_D0AamjH=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "LION (feat. Chris Brown & Brandon Lake)",
+            "artist": "Elevation Worship",
+            "video_id": "RdZeULtJw-w",
+            "duration": "5:55",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rLvlKb6xrZ1jTNPe-Nihmx3HujLLXufvu4dJ9kDP9t4H9akPjYR7uOSjnmvUdufBz10-qRBz0RRogoDpOg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Worthy of My Song (Worthy of It All) (feat. Mav City Gospel Choir)",
+            "artist": "Phil Wickham, Chandler Moore, Maverick City Music",
+            "video_id": "iEhW71lKMjA",
+            "duration": "8:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/_ZFYMITVg_-l85yyu3KosY0m2DnkanJAV7X1HIqwF5zJ6L_embB8G1R9wWs8BhqNS_3kUMHfTTSWqlQk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hymn of Heaven",
+            "artist": "Phil Wickham",
+            "video_id": "rVAf_PsO4mg",
+            "duration": "4:28",
+            "thumbnail_url": "https://lh3.googleusercontent.com/spslK5zN5yu_zq8e3APk188e12_y1HeAWT22mjP6sgdmZ-ms738wX5Fc3ya9p_eXi94bY-yjFtPpKVQU=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "This Is Amazing Grace",
+            "artist": "Phil Wickham",
+            "video_id": "9UrisfM3QJA",
+            "duration": "4:40",
+            "thumbnail_url": "https://lh3.googleusercontent.com/BqIhdAEjSlgCwjHz96wazQKJ6TIE6Tmxfd-d1jKaOKdit_bvPlePwj0HmwRfXeaoo8gPkIHLpCGiYCj7tg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "House of the Lord",
+            "artist": "Phil Wickham",
+            "video_id": "nZGyAztvej0",
+            "duration": "4:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/spslK5zN5yu_zq8e3APk188e12_y1HeAWT22mjP6sgdmZ-ms738wX5Fc3ya9p_eXi94bY-yjFtPpKVQU=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Jireh (feat. Chandler Moore & Naomi Raine)",
+            "artist": "Elevation Worship, Maverick City Music",
+            "video_id": "m_ffLNBu5_o",
+            "duration": "9:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FXyiJ7ahxvJfeMCMZ_2xcUrWF3IfiVLbn2d_qYgEuc8x8VeSS8ZWtJwLhbLeXK3kTAttzV_y8rDzCTA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "God of Revival",
+            "artist": "Phil Wickham",
+            "video_id": "I3ORwH23JWc",
+            "duration": "5:21",
+            "thumbnail_url": "https://lh3.googleusercontent.com/spslK5zN5yu_zq8e3APk188e12_y1HeAWT22mjP6sgdmZ-ms738wX5Fc3ya9p_eXi94bY-yjFtPpKVQU=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Miracle Maker",
+            "artist": "Phil Wickham",
+            "video_id": "MS29QUO5ihg",
+            "duration": "4:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/t-Dm8_yVKM9avkOk_vUjPTyzAUvJ1RLWxMM9wpkWG_aOLsezd2VoM52RxYaMBLTN2N7RxRkYOhe-r8w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Spirit of God",
+            "artist": "Phil Wickham",
+            "video_id": "4TQrQaqsusI",
+            "duration": "6:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/yRr8upI6t4MKH4k01qN8NctqU51Y8dz0QwwHXObrFXDG8JuxlgAAPn1fSAheKqGKry5mNNoNPHiYkpdv=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "You Say",
+            "artist": "Lauren Daigle",
+            "video_id": "g_49NQI3XTQ",
+            "duration": "4:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Vde9RotbP4uIFPZxU2Kc3vfDFRLuatkNUP61NgeA65hbULTIgHmXJBZkN1tLk1iQ6b9na8cbn1L1iWd8nw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "People Of Heaven",
+            "artist": "Phil Wickham, Brandon Lake",
+            "video_id": "_Bbh6PyWiPI",
+            "duration": "4:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/5WR3s6N99bIYNrEeGE_GenuEUxwa8PyANMzyE-lTqx0O2j11yIEYM2q9rMab9J81utANpICDh0iFC58=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "The Secret Place (feat. Madison Cunningham)",
+            "artist": "Phil Wickham",
+            "video_id": "3rHqVolYIFA",
+            "duration": "4:44",
+            "thumbnail_url": "https://lh3.googleusercontent.com/yRr8upI6t4MKH4k01qN8NctqU51Y8dz0QwwHXObrFXDG8JuxlgAAPn1fSAheKqGKry5mNNoNPHiYkpdv=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Uplifting",
+            "secondary_mood": "Spiritual",
+            "playlist_title": "Sacred Hebrew Whispers",
+            "keywords": [
+              "gospel",
+              "hebrew",
+              "worship",
+              "praise",
+              "spiritual",
+              "israel"
+            ],
+            "narrative": "Journey to the heart of ancient traditions, where the soulful power of gospel music intertwines with the sacred sounds of the Hebrew language. This collection is a bridge between worlds, offering songs of hope, praise, and devotion that resonate with a timeless spiritual energy.",
+            "recommended_genres": [
+              "Gospel",
+              "Hebrew Worship",
+              "Jewish Liturgical Music",
+              "World Music"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "i want to listen to gospel music in hebrew",
+        "mood": {
+          "primary_mood": "Uplifting",
+          "secondary_mood": "Spiritual",
+          "playlist_title": "Sacred Hebrew Whispers",
+          "keywords": [
+            "gospel",
+            "hebrew",
+            "worship",
+            "praise",
+            "spiritual",
+            "israel"
+          ],
+          "narrative": "Journey to the heart of ancient traditions, where the soulful power of gospel music intertwines with the sacred sounds of the Hebrew language. This collection is a bridge between worlds, offering songs of hope, praise, and devotion that resonate with a timeless spiritual energy.",
+          "recommended_genres": [
+            "Gospel",
+            "Hebrew Worship",
+            "Jewish Liturgical Music",
+            "World Music"
+          ]
+        },
+        "transitions": [
+          "Easing in with ELOHIM ADONA\u00cf - LionofGod Miracle to set the uplifting tone.",
+          "Let us lift the room with Hymn Of Heaven | Hebrew, Arabic & English (feat. Joshua Aaron, Rebekah Davis & Nizar Francis) - One for Israel.",
+          "Here comes your emotional anchor: Messiah (Yeshua HaMashiach \u2013 English & Hebrew Worship) - Elohim Songs.",
+          "We ramp the energy with Lion of Judah (\u05d0\u05b7\u05e8\u05b0\u05d9\u05b5\u05d4 \u05d9\u05b0\u05d4\u05d5\u05bc\u05d3\u05b8\u05d4) | Hebrew-English Worship Anthem - Charis Studio before landing on Yeshua, Precious Lord (Live) - The Messianic Jewish Alliance of Israel."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Uplifting",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Spiritual",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "ELOHIM ADONA\u00cf",
+            "artist": "LionofGod Miracle",
+            "video_id": "Ixsde-bi2XI",
+            "duration": "1:22:42",
+            "thumbnail_url": "https://lh3.googleusercontent.com/VkEDH_sRqqmGRsuzT3naIg6snYOhC6S9Demr8_wdqiJa_4D_olJ6gk_2dOvN50gKZzag1l3zKddBh4XA7g=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Shelter Me (Psalm 91 in Song \u2013 Hebrew & English Worship)",
+            "artist": "Elohim Songs",
+            "video_id": "TZ1AypALnaw",
+            "duration": "11:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/RETzvSPqJIVDlHi1BXdMvgmcb27olAU-a3KvE1EtSZLjcm5ED-e6k7CJwDBH70CRn0P6v0JZm_1l2u3R=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Fire of Your Spirit (Esh Ruchacha)",
+            "artist": "Sarah Liberman",
+            "video_id": "DdYXZlAbzvU",
+            "duration": "5:58",
+            "thumbnail_url": "https://lh3.googleusercontent.com/WsefawRcvpFAoPg6KSIniZ39RNKWbiegNQNqFBu_CH3BHXBgIw5C5FBhgub2qTRC0zCuM06MZwGUOETW=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hallelujah (\u05d4\u05b7\u05dc\u05b0\u05bc\u05dc\u05d5\u05bc\u05d9\u05b8\u05d4\u05bc) | Hebrew English Worship Anthem | Praise the Most High",
+            "artist": "Charis Studio",
+            "video_id": "4t7FkPA9WBY",
+            "duration": "6:58",
+            "thumbnail_url": "https://lh3.googleusercontent.com/uflI8lB-QmO9WDLjfIAf-VZInwR2cyDBUYOoqwK2wjMQdCmCB85BBDmrpCbziSY0k2nPXq5Xysm8NkDwfw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "In Christ Alone (Hebrew English Arabic)",
+            "artist": "One for Israel",
+            "video_id": "B6u9Dfe9qpY",
+            "duration": "4:23",
+            "thumbnail_url": "https://lh3.googleusercontent.com/bJN1szdJjV1MCP0fBoyTTc_23EYzGyVLN219J7llyCtgfW0rPgcP6Ygwz-afJ3VwacvvLXO6h6DkSGpDtQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Messiah (Yeshua HaMashiach \u2013 English & Hebrew Worship)",
+            "artist": "Elohim Songs",
+            "video_id": "2hcm7d7XQRM",
+            "duration": "12:42",
+            "thumbnail_url": "https://lh3.googleusercontent.com/WnXsYpTQlpbqx6ArqhqQgKcOYmUHAlii1YedIrdwec9-7K1G8jvBJPaDsCZEgiAiYDt97ym6IbhXoU6c=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Gadol Elohai / How Great Is Our God",
+            "artist": "Joshua Aaron",
+            "video_id": "yl9GWrj0VEU",
+            "duration": "4:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/pgE4bkUNCXxs3EnIOwIjNeP0g3F0Is9UTBJdX89AlZLKh8s0eq6WPb8rmciqKcFnX9VnH3Os4G6b96CAfA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hymn Of Heaven | Hebrew, Arabic & English (feat. Joshua Aaron, Rebekah Davis & Nizar Francis)",
+            "artist": "One for Israel",
+            "video_id": "0HYVT2tkOmg",
+            "duration": "4:19",
+            "thumbnail_url": "https://lh3.googleusercontent.com/lHbGYV7IjjhkXSHHaUG6T5Py80NTYDL-UIuGixPQvn0MHOryZotAJsVbw2Ms7RTYshB0MwjDoPC3MZrT=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Great Is the Lord (Hallelujah) [Live]",
+            "artist": "The Messianic Jewish Alliance of Israel",
+            "video_id": "HKXEdjgPd7A",
+            "duration": "4:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rs4p54qhOM4VcZRNDZZ3_gdMfzXrexS3TK7g4NigZArjMMycvxIag_uTzAhwDfwR5LeFez0dwv14wf0A=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Rock of Israel (Live)",
+            "artist": "Unknown",
+            "video_id": "AfHb7oOLhqI",
+            "duration": "4:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/aehkz5deineJ0gFlTWYD46z3OexbOfUt3SszsAuDLRa70XuG3cc2pyC1Ip_Ld-xrB1OEO2gtY9BgVms=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Kadosh",
+            "artist": "Barry & Batya Segal",
+            "video_id": "d2ILnGedg2g",
+            "duration": "6:46",
+            "thumbnail_url": "https://lh3.googleusercontent.com/aGP7721iORQAAFEnwUIdcXy0zbFZKOkC7_hhwcqqpgu2pTN3ETBKbWboJ1n2Qol3WyIdwfer8A7F_rGZ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ha Bracha",
+            "artist": "Joshua Aaron",
+            "video_id": "9agtQc-6Q8s",
+            "duration": "4:37",
+            "thumbnail_url": "https://lh3.googleusercontent.com/zxhlK97dgZLxK4Js5bPQ0jUGnOZExEKztIFuGr74PqYQZuM0qgtYrmlf1BMcv_Qj1lGOLfovKFeryx4k=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Adonai Live in Israel (feat. Joshua Aaron)",
+            "artist": "NATHANIEL BASSEY",
+            "video_id": "xTXcan45Rtk",
+            "duration": "7:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/iZX_HMVWgEaA_O86jvjXc3sCK0mgftyb1K6KSKaOg-piVZr2-i-MGqWGCQB8Usd5dzuX29LUwE5ZL8Nnjg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Lion of Judah (\u05d0\u05b7\u05e8\u05b0\u05d9\u05b5\u05d4 \u05d9\u05b0\u05d4\u05d5\u05bc\u05d3\u05b8\u05d4) | Hebrew-English Worship Anthem",
+            "artist": "Charis Studio",
+            "video_id": "38LHxqlmr5c",
+            "duration": "8:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/kB1_YcYBWXbtnt5HlkYF6pYshXD9cFcN5IlSyjBRxbRxkPhF2oQzODrkux4hHrGYXF4ZaMTVYmpaZGE=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Yeshua, Precious Lord (Live)",
+            "artist": "The Messianic Jewish Alliance of Israel",
+            "video_id": "s6Qe0JEkiHk",
+            "duration": "3:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/lq1k3A46DGKCoAAbGJ0tT5r9KgWczFHU5JDApzdIRjrYHM9sIN3mGaW2ru5YGxGPmdUt4QFOf1IhrTqU=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "i want to listen to the house of david album",
+        "mood": {
+          "primary_mood": "Spiritual",
+          "secondary_mood": "Uplifting",
+          "playlist_title": "Divine Echoes",
+          "keywords": [
+            "the house of david album",
+            "gospel",
+            "spiritual",
+            "praise",
+            "worship",
+            "devotional"
+          ],
+          "narrative": "You've explicitly called for the soul-stirring sounds of 'The House of David album'. Prepare for an uplifting and deeply spiritual experience, where every note and lyric aims to inspire peace, hope, and reflection, drawing you into a sacred space of praise and devotion.",
+          "recommended_genres": [
+            "Gospel",
+            "Christian Contemporary",
+            "Praise & Worship",
+            "Spiritual"
+          ]
+        },
+        "transitions": [
+          "Easing in with Songs Of David (Extended Version) - Kyle Lovett to set the spiritual tone.",
+          "Let us lift the room with Order My Steps In Your Word - Gmwa Women Of Worship.",
+          "Here comes your emotional anchor: LION (feat. Chris Brown & Brandon Lake) - Elevation Worship.",
+          "We ramp the energy with Atmosphere Of Worship - Peterson Okopi before landing on Atmosphere Of Worship - Peterson Okopi."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Spiritual",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Uplifting",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Songs Of David (Extended Version)",
+            "artist": "Kyle Lovett",
+            "video_id": "0DVadTgDHAY",
+            "duration": "1:02:57",
+            "thumbnail_url": "https://lh3.googleusercontent.com/5SITSBcgwBauq18-3KOfSwJLfNa5RexVDGT19_y-h5uF2VV7t7JNyybds2LlQ067jRbbkAPEtAbiDxDa=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Old Songs Medley: Hold Onto God's Unchanging Hand / I'm a Soldier / He's the Great Consolator / I Get Joy When I Think About It / By & By / All the Way / Yes, Lord / Just Another Day / I Feel Like Going On (Live)",
+            "artist": "Carlton Pearson",
+            "video_id": "spoSMJp_z20",
+            "duration": "23:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/m0Dma72sY9SIZOczwpqrl7UTLOBJcakagMr59TgAjQQnAxaN0oUu3Jj0zlGLZYlr_JL5dhmw0yDL0PA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "The Best In Me",
+            "artist": "Marvin Sapp",
+            "video_id": "CQt4xBGwaI4",
+            "duration": "8:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/khbQ2XimWDqerefof2rBp93K5tsc344tkiG-41omRvJTEh-icUGYMGCA9HX2NPYzHjpDcXZdk7y4Ncal=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "10,000 Reasons (Bless The Lord) (Live)",
+            "artist": "Matt Redman",
+            "video_id": "2KaHr_5U9Cg",
+            "duration": "5:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CS4CJ-Gd8yFT9bIenXDW9Xdt2z6J-TGapC-o8UweF2L_Efsq5D9ywsqszpZhOOQBtUgsQJ4K_D0AamjH=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "My Worship",
+            "artist": "Phil Thompson",
+            "video_id": "NAniUTMH9kk",
+            "duration": "6:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/xG_z_G3tAP_rpQtJ8VTp3WPiuU_lDg5SpbW2sPaxQiKS7-Oed6xj6achekdnXxWzK0ofqBnkbiTmPVdt=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "LION (feat. Chris Brown & Brandon Lake)",
+            "artist": "Elevation Worship",
+            "video_id": "RdZeULtJw-w",
+            "duration": "5:55",
+            "thumbnail_url": "https://lh3.googleusercontent.com/rLvlKb6xrZ1jTNPe-Nihmx3HujLLXufvu4dJ9kDP9t4H9akPjYR7uOSjnmvUdufBz10-qRBz0RRogoDpOg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Graves Into Gardens (Live)",
+            "artist": "Elevation Worship, Brandon Lake",
+            "video_id": "NYA4DHdBKnY",
+            "duration": "7:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/tA96I9w1IUcrA5j5huvM8w2J-sBIhDIMG6nQdEvcNyRU_pVa3EeI6O5XWE6Y414MzT7a3L0tzfezJIJe=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Something About the Name Jesus",
+            "artist": "The Rance Allen Group",
+            "video_id": "AYm_NBsZ8P8",
+            "duration": "10:14",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Djlc-ibN7xoN8jGkf7RNRORyjLbqwMTK7Hfu90Fefq6_7WdaiyNqHxfmfPt-OxmOEXZZ5Jtbjj1hSfc=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Order My Steps In Your Word",
+            "artist": "Gmwa Women Of Worship",
+            "video_id": "dmzCyxHIYoI",
+            "duration": "8:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Z_SoVbpTTKAlAHwLCttmnhnS4e5g4F2l5_RStG4Qi7Wix6gRr4LlfZwbcGY6Ns7XFDI5Y4GKgknVbABAMQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Consecrated Praise",
+            "artist": "House of David",
+            "video_id": "uTZIT7eVe_w",
+            "duration": "1:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/pqQUXWmT5sDhWnT7zSSEUvC8wA5UiUysRyaHNdQby-RgRg_XPvV2rCaGHR_hPnnRmrqL3O3LJYNBZPMjJw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "The Courts of Praise",
+            "artist": "House of David",
+            "video_id": "QZCiknKy924",
+            "duration": "0:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/wAuzJAHo3LjdRsgrKRMBMie6wNUX1iI3YZF39giJfDj06LMqqdk60cbKO5tS1Pd2wO-fWJOMSo1kObDf0A=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Earthen Vessel",
+            "artist": "THEOPHILUS SUNDAY",
+            "video_id": "HhOpt7VZGDE",
+            "duration": "20:44",
+            "thumbnail_url": "https://lh3.googleusercontent.com/dEilZNZq8mTB9_lyjNIux2N7jY8z_75L17JyxdgtUidBo5Xsl7ynpCNm7u50pMJmBjWPVmfrnQRHBZE=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Song of David \u2013 Epic Worship Anthem of Victory",
+            "artist": "Charis Studio",
+            "video_id": "e_ZGVUH6hPQ",
+            "duration": "6:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/861HsYmNWeAwY55JzINEMvNs4f2opu81AWgaA24ObJCKFSnTSCcbKQaT9ldvJne2OAzRn81f--m_a6uL=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Worship Medley (Live Recording)",
+            "artist": "House of David Choir",
+            "video_id": "tekpC_8vYls",
+            "duration": "6:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/U39vYCNS9g7dBKjRFm4nC8vCe7gnwc0NqFu4J1KDnIgbgkRWlqfe0PdMRPeJf_6pSAlyULaAcKarGSSbRw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Atmosphere Of Worship",
+            "artist": "Peterson Okopi",
+            "video_id": "rEfCuF5jliI",
+            "duration": "49:12",
+            "thumbnail_url": "https://lh3.googleusercontent.com/nrAeA59Qgyl9DEX2hCSzTYbqOmi1_BtPFexy5eK7TAmG1_TZ_644Lp2mhWjRiS9t2rZ8yhq8FIzmxm6lmQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Atmosphere Of Worship",
+            "artist": "Peterson Okopi",
+            "video_id": "rEfCuF5jliI",
+            "duration": "49:12",
+            "thumbnail_url": "https://lh3.googleusercontent.com/nrAeA59Qgyl9DEX2hCSzTYbqOmi1_BtPFexy5eK7TAmG1_TZ_644Lp2mhWjRiS9t2rZ8yhq8FIzmxm6lmQ=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "I want to listen to the house of david album",
+        "mood": {
+          "primary_mood": "Reflective",
+          "secondary_mood": "Soulful",
+          "playlist_title": "Desert Bloom",
+          "keywords": [
+            "Josh Garrels",
+            "The House of David album",
+            "Folk",
+            "Acoustic Soul",
+            "Spiritual",
+            "Indie Folk"
+          ],
+          "narrative": "Drift into the profound and contemplative world of Josh Garrels' 'The House of David'. This collection offers a deeply introspective and spiritually resonant soundscape, blending rich acoustic textures with heartfelt storytelling for moments of quiet reflection and soulful introspection.",
+          "recommended_genres": [
+            "Folk",
+            "Acoustic Soul",
+            "Indie Folk",
+            "Spiritual"
+          ]
+        },
+        "transitions": [
+          "Easing in with Songs Of David (Extended Version) - Kyle Lovett to set the reflective tone.",
+          "Let us lift the room with Ancient Doors - Josh Garrels, CETHER.",
+          "Here comes your emotional anchor: Come Ye Sinners Poor & Needy - Josh Garrels.",
+          "We ramp the energy with Born Again - Josh Garrels before landing on Benediction - Josh Garrels."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Reflective",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Soulful",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Songs Of David (Extended Version)",
+            "artist": "Kyle Lovett",
+            "video_id": "0DVadTgDHAY",
+            "duration": "1:02:57",
+            "thumbnail_url": "https://lh3.googleusercontent.com/5SITSBcgwBauq18-3KOfSwJLfNa5RexVDGT19_y-h5uF2VV7t7JNyybds2LlQ067jRbbkAPEtAbiDxDa=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Shepherd of My Soul",
+            "artist": "Rivers & Robots",
+            "video_id": "VVkF9931Y64",
+            "duration": "5:47",
+            "thumbnail_url": "https://lh3.googleusercontent.com/tUHmOlzzsW0rZHq-11XdTobQq5ivZuTuD2XpshMlTlq5FTnDdGsMwy_VRiqvws8wZ2znq2hWq06LButCIA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Forgiven",
+            "artist": "Josh White, Josh Garrels",
+            "video_id": "Vzkj0tjBPBI",
+            "duration": "4:35",
+            "thumbnail_url": "https://lh3.googleusercontent.com/DvEPe_3KbS89sEXt3-mliHyimf5KXtFGczwfnwHfX9XycYFT0oAn_kxn_KTfog5RzcpgZEHE6jAcP1vObA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Farther Along",
+            "artist": "Josh Garrels",
+            "video_id": "EWBGcNb9F5c",
+            "duration": "5:06",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Q93FZwY2GQoSJlD5dniR0Fe9nLZNuDnVJ9Sqfhb9dLfQHeIA7RJia5EKAOA3iR8y4JD2OYt0eICi_cue=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Farther Along",
+            "artist": "Josh Garrels",
+            "video_id": "EWBGcNb9F5c",
+            "duration": "5:06",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Q93FZwY2GQoSJlD5dniR0Fe9nLZNuDnVJ9Sqfhb9dLfQHeIA7RJia5EKAOA3iR8y4JD2OYt0eICi_cue=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Come Ye Sinners Poor & Needy",
+            "artist": "Josh Garrels",
+            "video_id": "vPxOTpcb91k",
+            "duration": "4:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/1Nbh6k9EujQxHSNdSP7qQSuD3g_fI5Br8c9rGI1hYoTnE1J5jKxIP5OhqaQitrHtWZeKpnhI9BhjYkDR=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Oh Love That Will Not Let Me Go (feat. Lauren Goans)",
+            "artist": "Josh Garrels",
+            "video_id": "7WrTfOdBdUE",
+            "duration": "5:52",
+            "thumbnail_url": "https://lh3.googleusercontent.com/1Nbh6k9EujQxHSNdSP7qQSuD3g_fI5Br8c9rGI1hYoTnE1J5jKxIP5OhqaQitrHtWZeKpnhI9BhjYkDR=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Children Of The Earth",
+            "artist": "Josh Garrels",
+            "video_id": "FcHnLIbVbu0",
+            "duration": "3:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/-yayeDTCxSEVlMrujkfXJCRKHcbGYG2DpcoSQTmeArYmXzpIZZ1TI_xCk6D8vKresRWY1T7JCbvUoRIN=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Ancient Doors",
+            "artist": "Josh Garrels, CETHER",
+            "video_id": "FEhzM8OHlI8",
+            "duration": "3:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/hD_rVUXVmekNOWdiPWX5HAHr1QWSp-9lP9vJm7YB8glfk3eQNyFp6X4XpxEj1yH8lMtJ3Z00if4ZbFdX=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "All For Jesus",
+            "artist": "Josh Garrels",
+            "video_id": "nVfFWo8GV3o",
+            "duration": "4:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/1Nbh6k9EujQxHSNdSP7qQSuD3g_fI5Br8c9rGI1hYoTnE1J5jKxIP5OhqaQitrHtWZeKpnhI9BhjYkDR=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Consecration",
+            "artist": "Josh Garrels",
+            "video_id": "RAOdUQZW5NM",
+            "duration": "3:49",
+            "thumbnail_url": "https://lh3.googleusercontent.com/vUxd55HDAx-Rm8Hz5RU0R9xI7wBkdu-IP02RsHzzCGvo1qQMJogTS4QMijN1M8V8C6kWV98kV2TPn9ne=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Surrounded (feat. Lauren Goans)",
+            "artist": "Josh Garrels",
+            "video_id": "_n4OsbqnOeA",
+            "duration": "5:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/1Nbh6k9EujQxHSNdSP7qQSuD3g_fI5Br8c9rGI1hYoTnE1J5jKxIP5OhqaQitrHtWZeKpnhI9BhjYkDR=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Bread & Wine",
+            "artist": "Josh Garrels",
+            "video_id": "-7LZeHGXvok",
+            "duration": "3:56",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Q93FZwY2GQoSJlD5dniR0Fe9nLZNuDnVJ9Sqfhb9dLfQHeIA7RJia5EKAOA3iR8y4JD2OYt0eICi_cue=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Trainsong",
+            "artist": "Josh Garrels",
+            "video_id": "VxZfRcoehxo",
+            "duration": "4:50",
+            "thumbnail_url": "https://lh3.googleusercontent.com/1Nbh6k9EujQxHSNdSP7qQSuD3g_fI5Br8c9rGI1hYoTnE1J5jKxIP5OhqaQitrHtWZeKpnhI9BhjYkDR=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Born Again",
+            "artist": "Josh Garrels",
+            "video_id": "bOsgLiFjGnk",
+            "duration": "4:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/w2W1GDhEaH3XcWd6T6wgGOdLCr5X2V0ahLYrCG1elizUj5rwW06btfcNE2yQVuaAh5x_R7QY42Tm7r-A=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Benediction",
+            "artist": "Josh Garrels",
+            "video_id": "7qa0QTWgoN8",
+            "duration": "4:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/w2W1GDhEaH3XcWd6T6wgGOdLCr5X2V0ahLYrCG1elizUj5rwW06btfcNE2yQVuaAh5x_R7QY42Tm7r-A=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "drake bangers",
+        "mood": {
+          "primary_mood": "Energetic",
+          "secondary_mood": "Confident",
+          "playlist_title": "OVO Anthem",
+          "keywords": [
+            "Drake",
+            "hip-hop",
+            "rap",
+            "banger",
+            "club",
+            "hype"
+          ],
+          "narrative": "Get ready to unleash the inner 6 God with a playlist packed exclusively with Drake's most undeniable bangers. This is the soundtrack for turning up, feeling yourself, and owning the night. Expect pulsating beats, iconic hooks, and that signature Drake swagger that demands attention and gets the whole room moving. From the club anthems to the tracks that just hit different, this is pure, unadulterated Drake energy.",
+          "recommended_genres": [
+            "Hip-Hop",
+            "Rap",
+            "Trap",
+            "R&B"
+          ]
+        },
+        "transitions": [
+          "Easing in with Rich Flex - Drake, 21 Savage to set the energetic tone.",
+          "Let us lift the room with Sticky - Drake.",
+          "Here comes your emotional anchor: Nonstop - Drake.",
+          "We ramp the energy with Money In The Grave (feat. Rick Ross) - Drake before landing on Walk It Talk It (feat. Drake) - Migos."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Energetic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Confident",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Rich Flex",
+            "artist": "Drake, 21 Savage",
+            "video_id": "sllmR3TJd_w",
+            "duration": "4:00",
+            "thumbnail_url": "https://lh3.googleusercontent.com/OIbJGy6eDwoWPQejSu1Ug7VK-f3RTMl3va0Nk_qeFDNct4Hkq073KT-Zno0Y2UOpx7hBMWwXaf41nvv7=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "NOKIA",
+            "artist": "Drake",
+            "video_id": "RDH71p3LgWM",
+            "duration": "4:02",
+            "thumbnail_url": "https://lh3.googleusercontent.com/E8GUlaN9CMuHxlgyEaE-1i6WRVxbPzVlambdVp1uHbvsf-i8yQR9GX6OjQfpMe1JLG7WNFp0LplooHM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Headlines",
+            "artist": "Drake",
+            "video_id": "Sn3SUnL44w4",
+            "duration": "3:56",
+            "thumbnail_url": "https://lh3.googleusercontent.com/NdDIkxfLZcKWbv6MIxOS7f9agx7nVFNROn-jQcj3mNf0epScKM_779xfATBbaVVTx0u_59JMMafWwWUi=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Nonstop",
+            "artist": "Drake",
+            "video_id": "QVqS3tB8OtE",
+            "duration": "3:59",
+            "thumbnail_url": "https://lh3.googleusercontent.com/zOaDpfj2eyVVe1WX6_hRirEI0DZxghCjpg-wVOebZK3FS_Q7MJKddQ2z5MGLqcUlcWN9RlJME34xpRuA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Sticky",
+            "artist": "Drake",
+            "video_id": "UFR-9IVgMBA",
+            "duration": "4:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/SwUzmVBSr5PRZww9ZODiSii6lz3t_w_3ILOnf361_BgAupOrzI5mfChShJj85G9y5UvMWQt6-55c7xRV=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Mob Ties",
+            "artist": "Drake",
+            "video_id": "pzAIhjxEemw",
+            "duration": "3:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9Oe4acEXgmAlCKgcgI6JlSXi2Tj30u6anzvfGBrunGO-fLhBTgzy-ei1ugPJpZDD5ArKFod9H4RTA5g0=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Life Is Good (feat. Drake)",
+            "artist": "Future",
+            "video_id": "6f8gDL-wPN8",
+            "duration": "3:58",
+            "thumbnail_url": "https://lh3.googleusercontent.com/KJ5CgsKFS1nDOJgA6wSkVYKpoKbAZSymG8DCbAnyffJ7MGnQwuqNSSd612_C5ib7DZbkeEKgDt_JVn-8AA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Money In The Grave (feat. Rick Ross)",
+            "artist": "Drake",
+            "video_id": "JFOiJ5ZvQlE",
+            "duration": "3:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/XePSDoDeS9zJ2nLNO21_DNiDUVwaVagSaISL-3w5Veh-R13DNEKZHbRWqk-vwS8WdygllIxm4VTmt84=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Walk It Talk It (feat. Drake)",
+            "artist": "Migos",
+            "video_id": "uXpjTRF9piY",
+            "duration": "4:37",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9NMCfn4veWTKeb25l7jPOeEtN1HwqT9aEJTtOf-nKeTKjb4p-e-9yQUAD1CAx2TB9O8q5Y3aJtzN6BY=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "need a banger kanye playlist",
+        "mood": {
+          "primary_mood": "Energetic",
+          "secondary_mood": "Confident",
+          "keywords": [
+            "Kanye West",
+            "Hip Hop",
+            "Hype",
+            "Banger",
+            "Swagger",
+            "Iconic"
+          ],
+          "narrative": "Ignite your speakers with a no-holds-barred journey through Kanye West's most electric, audacious, and undeniable bangers. This is the soundtrack for feeling invincible, for turning up, and for making every moment feel like a headline.",
+          "recommended_genres": [
+            "Hip Hop",
+            "Rap",
+            "Trap",
+            "Electronic"
+          ]
+        },
+        "transitions": [
+          "Easing in with Heartless - Kanye West to set the energetic tone.",
+          "Let us lift the room with Swagga Like Us (feat. Kanye West & Lil Wayne) - JAY-Z, T.I..",
+          "Here comes your emotional anchor: Stronger - Kanye West.",
+          "We ramp the energy with Father Stretch My Hands Pt. 1 - Kanye West before landing on So Appalled (feat. Kanye West, JAY-Z, Pusha T & Prynce Cy Hi) - Kanye West."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Energetic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Confident",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Heartless",
+            "artist": "Kanye West",
+            "video_id": "s40BTpfAELs",
+            "duration": "3:31",
+            "thumbnail_url": "https://lh3.googleusercontent.com/exflW3HncdenT5gT0RFYTF4PfxoC2UIAjC3gdVO9troE_u8bW7g8tqvqas9x_hozALD5wu_rYbm0k1Jk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Run This Town (feat. Rihanna & Kanye West)",
+            "artist": "JAY-Z",
+            "video_id": "EeE7CfNs7Js",
+            "duration": "4:28",
+            "thumbnail_url": "https://lh3.googleusercontent.com/cac7RCDKMaGadnmmVcJA1pJBi5Vcp3hwPHbKSHJzJ1H-JXOhASEuLYCvUPX3blZx6OlIyGtm8ld9BKFS=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Famous",
+            "artist": "Kanye West",
+            "video_id": "Lq2TmRzg19k",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/aPKvJlUpWx0i61bLgr5VGYadl7jzK-mtJTt5utKUkZgjLB98IHqIaptWpsJpJQ-fLIYIZ0j7cJN2cYjs4Q=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Can't Tell Me Nothing",
+            "artist": "Kanye West",
+            "video_id": "Vcljvd4Ef_o",
+            "duration": "4:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/oKQTnxQQHVxGC0U5pZTxsdKfshiSHtrJK15iR9Yw2MJ-oiX55-KCGcso_-PIzOrfQmxEPNxDzUYSc3k=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Stronger",
+            "artist": "Kanye West",
+            "video_id": "3mwiO5st-us",
+            "duration": "5:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/oKQTnxQQHVxGC0U5pZTxsdKfshiSHtrJK15iR9Yw2MJ-oiX55-KCGcso_-PIzOrfQmxEPNxDzUYSc3k=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Mercy (feat. Big Sean, Pusha T & 2 Chainz)",
+            "artist": "Kanye West",
+            "video_id": "YGiBUN6EjCo",
+            "duration": "5:30",
+            "thumbnail_url": "https://lh3.googleusercontent.com/IoQijsrAbk_Mhr-sQtxGqrjprHhAuC87ZHoi1EIsXEA7-h0Wanygt9Za3qo1Lu5pbDNlKZlEzVCkmP7Thw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Swagga Like Us (feat. Kanye West & Lil Wayne)",
+            "artist": "JAY-Z, T.I.",
+            "video_id": "Im4tnRlJcXc",
+            "duration": "5:30",
+            "thumbnail_url": "https://lh3.googleusercontent.com/I_RtcQ94kZpA1t04tzadUak_WunGeCAskIRwnqRJfqOcSSMku_TSPWLx0RDxZ87ank-Qxvo-RoIxg448=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Clique",
+            "artist": "Kanye West, JAY Z, Big Sean",
+            "video_id": "aUAPsa5NfR4",
+            "duration": "4:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/eTU3-MTXoXE6Svoh2CAkZovzT1GkHxpXGfPBYQaw2uB9sJbE9ZIcOABul_H7BLubAPupZ-zMxgYqqdJd=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Black Skinhead",
+            "artist": "Kanye West",
+            "video_id": "LXeQ6bmV7oU",
+            "duration": "3:09",
+            "thumbnail_url": "https://lh3.googleusercontent.com/IlOU83T0SWGj7h7qpDaZJwwGVfKnky9Veu8Nm6JzxzmvoWOFJQusAdTKhAqYla-3ZJBgIVWAhrDMikSfbA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Off The Grid",
+            "artist": "Kanye West",
+            "video_id": "xvuzWi_l-U8",
+            "duration": "5:40",
+            "thumbnail_url": "https://lh3.googleusercontent.com/gd7qsOzpy8aoUf0SV1E-LZiUjo03QYiDNFRwSwQc3h5rBG8JHuk1P_nsB7I9A4rS_cMpyU18D8SEOA7iDw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Good Life (feat. T-Pain)",
+            "artist": "Kanye West",
+            "video_id": "GTmbyuTKT_c",
+            "duration": "3:27",
+            "thumbnail_url": "https://lh3.googleusercontent.com/LENzUxyoVSRKUEZrw6nG5cOajuDDnFaIQIbD3LW95HaLLNOW4IHHvpGl0nmCoyFpiQE93jtT2FJTJk2Oqg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Father Stretch My Hands Pt. 1",
+            "artist": "Kanye West",
+            "video_id": "wuO4_P_8p-Q",
+            "duration": "2:16",
+            "thumbnail_url": "https://lh3.googleusercontent.com/aPKvJlUpWx0i61bLgr5VGYadl7jzK-mtJTt5utKUkZgjLB98IHqIaptWpsJpJQ-fLIYIZ0j7cJN2cYjs4Q=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "So Appalled (feat. Kanye West, JAY-Z, Pusha T & Prynce Cy Hi)",
+            "artist": "Kanye West",
+            "video_id": "0o9HzQ3zAcE",
+            "duration": "6:38",
+            "thumbnail_url": "https://lh3.googleusercontent.com/tSZcuqpZPhJIK8ItC4tkokRmIA6zEo408LFJnWb-3Nm8fv5adFiE1ArPTd_UqhaC-o8KI8tMNZIuFEo=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": [
+          {
+            "primary_mood": "Energetic",
+            "secondary_mood": "Powerful",
+            "keywords": [
+              "workout",
+              "pump-up",
+              "intense",
+              "motivation",
+              "high-energy",
+              "power"
+            ],
+            "narrative": "Time to crush your goals! This is the soundtrack to every rep, every sprint, every punch. Feel the adrenaline surge, the power ignite within you. Let the rhythm drive you past your limits and unleash the beast!",
+            "recommended_genres": [
+              "Electronic",
+              "Hip-Hop",
+              "Pop",
+              "Rock"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "i need a workout banger",
+        "mood": {
+          "primary_mood": "Energetic",
+          "secondary_mood": "Powerful",
+          "keywords": [
+            "workout",
+            "pump-up",
+            "intense",
+            "motivation",
+            "high-energy",
+            "power"
+          ],
+          "narrative": "Time to crush your goals! This is the soundtrack to every rep, every sprint, every punch. Feel the adrenaline surge, the power ignite within you. Let the rhythm drive you past your limits and unleash the beast!",
+          "recommended_genres": [
+            "Electronic",
+            "Hip-Hop",
+            "Pop",
+            "Rock"
+          ]
+        },
+        "transitions": [
+          "Easing in with Kar Har Maidaan Fateh (From \"Sanju\") - Sukhwinder Singh, Shreya Ghoshal, Vikram Montrose to set the energetic tone.",
+          "Let us lift the room with Energy Boosting Beats for Intense Workouts - Unknown.",
+          "Here comes your emotional anchor: GET READY TO FIGHT - BENNY DAYAL, SIDDHARTH BASRUR, PRANAY RIJIA.",
+          "We ramp the energy with Gym - Sippy Gill before landing on POWER - Kanye West."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Energetic",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Powerful",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Kar Har Maidaan Fateh (From \"Sanju\")",
+            "artist": "Sukhwinder Singh, Shreya Ghoshal, Vikram Montrose",
+            "video_id": "TDF_KVcC4Qg",
+            "duration": "5:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/X9xxVzT_si1UhHnVZUI3CN7hX3bHpABy37lirh-afqlee6pSRJi6cgooPwqlaYqzepT7Vdgflv_322U=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Intense Fitness Music \u2013 Pump Up Energy for Gym and Cardio",
+            "artist": "Camuna Music",
+            "video_id": "sL8BCdXO7zI",
+            "duration": "3:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/R5OmLmgwjnnhO66nB11jwiSlrOXCsWXwanuc6l9YS-MC03nMFNzJuj-pZDdw9z52SDezX2EMAa6K0TQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Gym",
+            "artist": "Sippy Gill",
+            "video_id": "QFp9A0utjhg",
+            "duration": "4:12",
+            "thumbnail_url": "https://lh3.googleusercontent.com/k_viyKZPgEwlXn0akO-eluif0KB2ipgoQVDM0Mz3hIMO7xIntBRe-sZsfeWRIpdzwKoQYnjz1DudPlHL=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Till I Collapse (feat. Nate Dogg)",
+            "artist": "Eminem",
+            "video_id": "Obim8BYGnOE",
+            "duration": "4:58",
+            "thumbnail_url": "https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS=w60-h60-s-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Brothers Anthem",
+            "artist": "Ajay-Atul, Vishal Dadlani",
+            "video_id": "uyLDzc0V0OU",
+            "duration": "5:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/v-2Ng6CDDKoFHFfQPh0qHjDpgfGV7FsaVjq1Rk5Fb-SftDUfu8AbursrRwWOpM9bsu4ohJSMgV5R3w2_bw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Intense Fitness Music \u2013 High Energy Workout and Training Motivation",
+            "artist": "Camuna Music",
+            "video_id": "rTmnyif1NR8",
+            "duration": "3:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QvyXhtNqd3gDGPoj1OwPEnMnZW6fGQcdqRM7PDpS6dM1KSGKH3KtVD8DG2P_qnTjzGje-OzaLmi5TLM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "GET READY TO FIGHT",
+            "artist": "BENNY DAYAL, SIDDHARTH BASRUR, PRANAY RIJIA",
+            "video_id": "4882Hi-TtHM",
+            "duration": "3:25",
+            "thumbnail_url": "https://lh3.googleusercontent.com/I84gj9qeTUvxXcgeNeT_bA0LdfBj0gNruSyEVG9foo82n5hBZ_kEyY1yFldRvzQ6WAkhOnk8XG4lId3B=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Intense Fitness Music \u2013 Pump Up Energy for Gym and Cardio",
+            "artist": "Camuna Music",
+            "video_id": "sL8BCdXO7zI",
+            "duration": "3:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/R5OmLmgwjnnhO66nB11jwiSlrOXCsWXwanuc6l9YS-MC03nMFNzJuj-pZDdw9z52SDezX2EMAa6K0TQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Intense Fitness Music \u2013 High Energy Workout and Training Motivation",
+            "artist": "Camuna Music",
+            "video_id": "rTmnyif1NR8",
+            "duration": "3:33",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QvyXhtNqd3gDGPoj1OwPEnMnZW6fGQcdqRM7PDpS6dM1KSGKH3KtVD8DG2P_qnTjzGje-OzaLmi5TLM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Energy Boosting Beats for Intense Workouts",
+            "artist": "Unknown",
+            "video_id": "pUUolzH9VQQ",
+            "duration": "2:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/NcMrJO3b6caswuQYnIzmtwRei1h-LCei1Pug1RA03npTaLIQ25SqMlQ08iaAnT_rUGDtYBsfiy1SxUk=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Motivational Gym Music \u2013 High Energy Training Essentials",
+            "artist": "Camuna Music",
+            "video_id": "TzKvfYQJCKI",
+            "duration": "4:25",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QvyXhtNqd3gDGPoj1OwPEnMnZW6fGQcdqRM7PDpS6dM1KSGKH3KtVD8DG2P_qnTjzGje-OzaLmi5TLM=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Thunderstruck",
+            "artist": "AC/DC",
+            "video_id": "lhg9bYNLvOg",
+            "duration": "4:53",
+            "thumbnail_url": "https://lh3.googleusercontent.com/DV_ebk0MH4HMLfn2CxeH6Thjf9OSs1Q6FhZulHE6KIyoPWYT6rh2FOZIERUFLRKg7yxpPqwIBE31D5ETkg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Pump Up the Energy",
+            "artist": "Workout Gym Music, Hardstyle Gym Bro, Gymtech Music",
+            "video_id": "Sj3iutu8WEE",
+            "duration": "3:45",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9Jl0xO-CjVKKr1O4WURqcL81FEPrLLBBtOEz7PaHb-Q2Y1b-dEgIBMELSvsxH5UhgsDLyQSsgpK9_ziY=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Pump It Up (140 Bpm)",
+            "artist": "Brutal HIIT Ladder Workout",
+            "video_id": "J2-eQxpuX04",
+            "duration": "2:56",
+            "thumbnail_url": "https://lh3.googleusercontent.com/EOglS5kwCYQWXTtzBEyB4irPgKMnU3TCKqnMYrBB6JnHqf0XopVkvQvt0Sy2lDUaviBCpPJO1BSYnxcmSw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Vikram (Title Track)",
+            "artist": "Anirudh Ravichander",
+            "video_id": "5XthUghC2Po",
+            "duration": "3:39",
+            "thumbnail_url": "https://lh3.googleusercontent.com/LcSQ14ggv7JhGWikgTRHfxsCZyvFx6SoMXhI44kD5WlB-p1JgNt5aCslLC_CpfW-Fouj1S1tGKSkiHgp=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Workout Energy",
+            "artist": "Pump Tunes",
+            "video_id": "0iH91GQHDsU",
+            "duration": "4:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QFD8sI38X5JJRUkqiYWZ81VXe8fQBSQJdfAIhj_1RLg4CerBMxKsoLLUcgwBnGHifpMeE6uCzoPLK2Y=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Gym",
+            "artist": "Sippy Gill",
+            "video_id": "QFp9A0utjhg",
+            "duration": "4:12",
+            "thumbnail_url": "https://lh3.googleusercontent.com/k_viyKZPgEwlXn0akO-eluif0KB2ipgoQVDM0Mz3hIMO7xIntBRe-sZsfeWRIpdzwKoQYnjz1DudPlHL=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "POWER",
+            "artist": "Kanye West",
+            "video_id": "chPDTUjnWgA",
+            "duration": "4:53",
+            "thumbnail_url": "https://lh3.googleusercontent.com/W14ZE46HSg2LNfqEhasrU-T5q3Lui_Uv6YjmjorLBR5Tl6ynmU1ee1VsjOuzBomdWsJpsceJLdMRy_k=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
+      {
+        "prompt": "full nf playlist",
+        "mood": {
+          "primary_mood": "Introspective",
+          "secondary_mood": "Resilient",
+          "keywords": [
+            "NF",
+            "Hip-Hop",
+            "Emotional Rap",
+            "Storytelling",
+            "Cathartic",
+            "Overcoming"
+          ],
+          "narrative": "Step into the mind of NF with a playlist dedicated to his raw, honest storytelling. This journey will navigate the depths of introspection, confront personal struggles head-on, and emerge with a powerful sense of resilience. Prepare for intense beats, rapid-fire lyrical precision, and a cathartic release of emotion that speaks directly to the soul.",
+          "recommended_genres": [
+            "Hip-Hop",
+            "Emotional Rap",
+            "Conscious Hip-Hop",
+            "Alternative Hip-Hop"
+          ]
+        },
+        "transitions": [
+          "Easing in with The Search - NF to set the introspective tone.",
+          "Let us lift the room with Paralyzed - NF.",
+          "Here comes your emotional anchor: RUNNING - NF.",
+          "We ramp the energy with If You Want Love - NF before landing on No Excuses - NF."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Introspective",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Resilient",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "The Search",
+            "artist": "NF",
+            "video_id": "Zh9p-6JfrSo",
+            "duration": "4:09",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hate Myself",
+            "artist": "NF",
+            "video_id": "6io0g7WuHaI",
+            "duration": "4:21",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "When I Grow Up",
+            "artist": "NF",
+            "video_id": "nBS1LR0S8ks",
+            "duration": "3:17",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "STORY",
+            "artist": "NF",
+            "video_id": "1YzAOsNAdG0",
+            "duration": "4:40",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "How Could You Leave Us",
+            "artist": "NF",
+            "video_id": "hMikv9odu34",
+            "duration": "5:23",
+            "thumbnail_url": "https://lh3.googleusercontent.com/7Z-bdNiaqbrdMRaPYhVEFNwFILuZs7THMdH8hEVp8sGDyAYUlxTcgU9GtIgpxrN-lkdLHTAmyIeRMac=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "RUNNING",
+            "artist": "NF",
+            "video_id": "NJB8XcQhKwQ",
+            "duration": "4:14",
+            "thumbnail_url": "https://lh3.googleusercontent.com/leJKsIpbJSxJ-Q6S5sOH3d4I4sALCOvZfJ8tPACR7je5nsnLM6KnxA1BLmjC1pId1DQk5ZUI-E0DjNwGSg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "LAYERS",
+            "artist": "NF",
+            "video_id": "6xO6mdCWtww",
+            "duration": "3:16",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "RUNNING",
+            "artist": "NF",
+            "video_id": "NJB8XcQhKwQ",
+            "duration": "4:14",
+            "thumbnail_url": "https://lh3.googleusercontent.com/leJKsIpbJSxJ-Q6S5sOH3d4I4sALCOvZfJ8tPACR7je5nsnLM6KnxA1BLmjC1pId1DQk5ZUI-E0DjNwGSg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Paralyzed",
+            "artist": "NF",
+            "video_id": "5Ko8NchzmVw",
+            "duration": "4:31",
+            "thumbnail_url": "https://lh3.googleusercontent.com/3JBCVOxtZjGpD-V4uhheb0yrqStfKYEcjmrzzbJG0N167dIeyI1lF2BJLzLOi1Yq5xQe_rOGoYu7jVg-=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "FEAR",
+            "artist": "NF",
+            "video_id": "AeF4cXJcUjY",
+            "duration": "4:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/imPZSVmXz9D8T-2UDJ64HlSaO44ry8BEX6kdXI44dw5RwiHV1ZHP71ILFDHQTjDKhxcGYFnJ992AL0lu=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "CLOUDS",
+            "artist": "NF",
+            "video_id": "JXOYZXb0no4",
+            "duration": "4:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "CLOUDS",
+            "artist": "NF",
+            "video_id": "JXOYZXb0no4",
+            "duration": "4:04",
+            "thumbnail_url": "https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "PAID MY DUES",
+            "artist": "NF",
+            "video_id": "a-bkgOfJAFI",
+            "duration": "3:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/adjHmqodq-IWyZYzMSAqL89PqzHTAbhEZ_xlFF_D9K0TKYSt31Zv6OkxnqmSb2CYqS5wAMWfZD8k4DQW=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Nate",
+            "artist": "NF",
+            "video_id": "GhKjyhyEFPE",
+            "duration": "5:03",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Therapy Session",
+            "artist": "NF",
+            "video_id": "-7wRSJNkljc",
+            "duration": "5:32",
+            "thumbnail_url": "https://lh3.googleusercontent.com/7Z-bdNiaqbrdMRaPYhVEFNwFILuZs7THMdH8hEVp8sGDyAYUlxTcgU9GtIgpxrN-lkdLHTAmyIeRMac=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "If You Want Love",
+            "artist": "NF",
+            "video_id": "--f6V5Jw0Qc",
+            "duration": "3:20",
+            "thumbnail_url": "https://lh3.googleusercontent.com/E3J-qjxgo0Yumxq7JFNmT2ih57nuZSvSaAyAqf914XoA_XVi0YKaS_c8daa5wNB9KkS-2dMpunGUXEF9Lg=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "No Excuses",
+            "artist": "NF",
+            "video_id": "OVkGvRz5r2o",
+            "duration": "3:22",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      }
+    ]
+  }
+}

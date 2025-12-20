@@ -5,8 +5,9 @@ import { motion, AnimatePresence, useScroll, useTransform } from "framer-motion"
 import { PromptForm } from "./PromptForm";
 import { PlaylistColumn } from "./PlaylistColumn";
 import { ArchiveDrawer } from "./ArchiveDrawer";
+import { Modal, ModalType } from "./Modal";
 import type { MuseSession, PlaylistResponse, Track } from "@/types/muse";
-import { createPlaylist, clearHistory, getHistory } from "@/lib/api";
+import { createPlaylist, clearHistory, getHistory, deleteHistoryItem, streamPlaylist } from "@/lib/api";
 
 type Props = {
     user: MuseSession;
@@ -23,9 +24,52 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
     const [isArchiveOpen, setIsArchiveOpen] = useState(false);
     const [theme, setTheme] = useState<"dark" | "light">("dark");
 
+    // Streaming State
+    const [streamingNarrative, setStreamingNarrative] = useState("");
+    const [streamingStatus, setStreamingStatus] = useState("");
+    const [isLoading, setIsLoading] = useState(false);
+
+    // Modal State
+    const [modalOpen, setModalOpen] = useState(false);
+    const [modalConfig, setModalConfig] = useState<{
+        type: ModalType;
+        title: string;
+        message: string;
+        onConfirm?: () => void;
+        confirmLabel?: string;
+        cancelLabel?: string;
+    } | null>(null);
+
+    // Modal Helpers
+    const showAlert = (title: string, message: string) => {
+        setModalConfig({
+            type: "alert",
+            title,
+            message,
+            confirmLabel: "OK"
+        });
+        setModalOpen(true);
+    };
+
+    const showConfirm = (title: string, message: string, onConfirm: () => void, confirmLabel = "YES", cancelLabel = "CANCEL") => {
+        setModalConfig({
+            type: "confirm",
+            title,
+            message,
+            onConfirm,
+            confirmLabel,
+            cancelLabel
+        });
+        setModalOpen(true);
+    };
+
+    const closeModal = () => {
+        setModalOpen(false);
+        setTimeout(() => setModalConfig(null), 300);
+    };
+
     useEffect(() => {
         loadHistory();
-        // Initialize theme from system preference or default to dark
         document.documentElement.setAttribute("data-theme", "dark");
     }, [user.user_id]);
 
@@ -44,11 +88,95 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
         }
     }
 
+    async function handlePromptSubmit(prompt: string) {
+        setIsLoading(true);
+        setStreamingNarrative("");
+        setStreamingStatus("INITIALIZING AI...");
+        setPlaylist(null); // Clear previous
+
+        try {
+            await (window as any).streamPlaylist(prompt, "browser-device-id", (type: string, data: any) => {
+                if (type === "narrative") {
+                    setStreamingNarrative(prev => prev + data);
+                } else if (type === "status") {
+                    setStreamingStatus(data.toUpperCase());
+                } else if (type === "result") {
+                    try {
+                        const result = JSON.parse(data);
+                        setPlaylist(result);
+                        loadHistory();
+                        setIsLoading(false);
+                        setStreamingStatus("");
+                    } catch (e) {
+                        console.error("Failed to parse result", e);
+                        showAlert("Error", "Failed to process playlist data.");
+                        setIsLoading(false);
+                    }
+                } else if (type === "error") {
+                    console.error("Stream error", data);
+                    showAlert("Error", data || "An error occurred.");
+                    setIsLoading(false);
+                }
+            }, user.user_id);
+        } catch (e) {
+            // Check if streamPlaylist is just not on window yet or if it's a real error
+            // For now, simpler to import streamPlaylist directly, but user reverted file previously removing imports 
+            // So we need to re-add import at the top of file first.
+            // Wait, I will fix imports in a separate Edit if needed, but for now assuming import exists.
+            console.error("Stream connection error", e);
+            showAlert("Error", "Failed to connect to AI service.");
+            setIsLoading(false);
+        }
+    }
+
+    // Correcting the function above to use the imported streamPlaylist, not window
+    async function handlePromptSubmitCorrect(prompt: string) {
+        setIsLoading(true);
+        setStreamingNarrative("");
+        setStreamingStatus("INITIALIZING AI...");
+        setPlaylist(null);
+
+        try {
+            // We need to import streamPlaylist. I will ensure imports are correct in same replace block below.
+            // Using 'require' or assuming import is present for this block.
+            // Actually, I am replacing the COMPONENT, so I should assume imports are handled by previous edits or I should include them if I could replace whole file.
+            // But I am replacing lines 20-250 roughly.
+            await streamPlaylist(prompt, "browser-device-id", (type, data) => {
+                if (type === "narrative") {
+                    setStreamingNarrative(prev => prev + data);
+                } else if (type === "status") {
+                    setStreamingStatus(data.toUpperCase());
+                } else if (type === "result") {
+                    try {
+                        const result = JSON.parse(data);
+                        setPlaylist(result);
+                        loadHistory();
+                        setIsLoading(false);
+                        setStreamingStatus("");
+                    } catch (e) {
+                        console.error("Failed to parse result", e);
+                        showAlert("Error", "Failed to process playlist data.");
+                        setIsLoading(false);
+                    }
+                } else if (type === "error") {
+                    console.error("Stream error", data);
+                    showAlert("Error", data || "An error occurred.");
+                    setIsLoading(false);
+                }
+            }, user.user_id);
+        } catch (e) {
+            console.error("Stream error", e);
+            showAlert("Error", "Failed to connect to AI service.");
+            setIsLoading(false);
+        }
+    }
+
+
     async function handleCreatePlaylist() {
         if (!playlist) return;
 
         if (!user.has_youtube_auth) {
-            alert("YouTube Music is not linked. Please reconnect.");
+            showAlert("Connection Error", "YouTube Music is not linked. Please reconnect.");
             return;
         }
 
@@ -60,24 +188,42 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
             }
             const res = await createPlaylist(user.user_id, `The Plug: ${playlist.mood.playlist_title || playlist.mood.primary_mood}`, videoIds);
 
-            // Show success message with link
             const playlistUrl = `https://music.youtube.com/playlist?list=${res.playlist_id}`;
-            if (confirm("Playlist created successfully! Open in YouTube Music?")) {
-                window.open(playlistUrl, "_blank");
-            }
+            showConfirm(
+                "Tape Created",
+                "Playlist created successfully! Open in YouTube Music?",
+                () => window.open(playlistUrl, "_blank"),
+                "OPEN"
+            );
         } catch (e: any) {
             console.error("Playlist creation failed:", e);
-            alert(`Failed to create playlist: ${e.message || "Unknown error"}`);
+            showAlert("Error", `Failed to create playlist: ${e.message || "Unknown error"}`);
         } finally {
             setIsCreating(false);
         }
     }
 
     async function handleClearHistory() {
-        if (confirm("Clear all history?")) {
+        showConfirm("Clear Archives", "Are you sure you want to erase all history? This cannot be undone.", async () => {
             await clearHistory(user.user_id);
             setHistory([]);
-        }
+        }, "ERASE ALL");
+    }
+
+    async function handleDeleteHistoryItem(index: number) {
+        showConfirm("Delete Tape", "Are you sure you want to delete this tape?", async () => {
+            try {
+                // Call API (using index which is 0-based, API expects 0-based)
+                await deleteHistoryItem(user.user_id, index);
+                // Optimistic update
+                const newHistory = [...history];
+                newHistory.splice(index, 1);
+                setHistory(newHistory);
+            } catch (e) {
+                console.error("Failed to delete item", e);
+                showAlert("Error", "Failed to delete tape.");
+            }
+        }, "DELETE");
     }
 
     const { scrollY } = useScroll();
@@ -86,6 +232,20 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
 
     return (
         <div className="min-h-screen pb-40 relative bg-retro-olive transition-colors duration-500 overflow-hidden">
+            {/* Modal */}
+            {modalConfig && (
+                <Modal
+                    isOpen={modalOpen}
+                    onClose={closeModal}
+                    title={modalConfig.title}
+                    message={modalConfig.message}
+                    type={modalConfig.type}
+                    onConfirm={modalConfig.onConfirm}
+                    confirmLabel={modalConfig.confirmLabel}
+                    cancelLabel={modalConfig.cancelLabel}
+                />
+            )}
+
             {/* Decorative Grid Lines */}
             <div className="fixed inset-0 pointer-events-none z-0">
                 <div className="absolute top-24 left-0 right-0 h-px bg-retro-neon/10" />
@@ -161,9 +321,6 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
                         animate={{ opacity: 1, y: 0 }}
                         className="mb-12 relative"
                     >
-                        {/* Background Text */}
-
-
                         <h2 className="text-3xl md:text-4xl font-bold text-white relative z-10 uppercase tracking-[0.2em] drop-shadow-lg">
                             What's <span className="text-retro-neon">the word</span>
                         </h2>
@@ -172,18 +329,16 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
 
                     <div className="relative z-20">
                         <PromptForm
-                            onSubmit={(p) => {
-                                setPlaylist(p);
-                                loadHistory();
-                            }}
+                            onSubmit={handlePromptSubmitCorrect}
                             userId={user.user_id}
+                            isLoading={isLoading}
                         />
                     </div>
                 </div>
 
                 {/* Results Section */}
                 <AnimatePresence mode="wait">
-                    {playlist && (
+                    {(playlist || streamingNarrative) && (
                         <motion.div
                             initial={{ opacity: 0, y: 40 }}
                             animate={{ opacity: 1, y: 0 }}
@@ -194,41 +349,61 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
                             <div className="lg:col-span-4 space-y-8">
                                 <div className="glass-panel p-6 relative overflow-hidden bg-retro-surface/40 border border-retro-neon/20">
                                     <div className="absolute top-0 right-0 bg-retro-orange text-black text-xs font-bold px-2 py-1">
-                                        REC
+                                        {playlist ? "REC" : "LIVE"}
                                     </div>
                                     <h2 className="text-3xl font-bold text-retro-neon mb-2 uppercase transform scale-y-110">
-                                        {playlist.mood.playlist_title || playlist.mood.primary_mood}
+                                        {playlist ? (playlist.mood.playlist_title || playlist.mood.primary_mood) : (
+                                            <span className="animate-pulse">ANALYZING VIBES...</span>
+                                        )}
                                     </h2>
                                     <div className="h-px w-full bg-retro-neon/50 mb-4" />
-                                    <p className="text-sm font-mono text-zinc-300 mb-6 leading-relaxed">
-                                        {playlist.mood.narrative}
+                                    <p className="text-sm font-mono text-zinc-300 mb-6 leading-relaxed whitespace-pre-wrap">
+                                        {playlist ? playlist.mood.narrative : streamingNarrative}
+                                        {!playlist && <span className="inline-block w-2 H-4 bg-retro-neon ml-1 animate-pulse" />}
                                     </p>
 
-                                    <div className="flex flex-wrap gap-2 mb-8">
-                                        {playlist.mood.keywords.map((k, i) => (
+                                    <div className="flex flex-wrap gap-2 mb-8 min-h-[40px]">
+                                        {playlist ? playlist.mood.keywords.map((k, i) => (
                                             <span key={i} className="text-xs font-mono text-retro-neon border border-retro-neon/30 px-2 py-1 bg-retro-neon/5">
                                                 {k.toUpperCase()}
                                             </span>
-                                        ))}
+                                        )) : (
+                                            <div className="w-full text-xs font-mono text-retro-neon/70 bg-black/20 p-2 border border-retro-neon/20 rounded">
+                                                {'>'} {streamingStatus || "CONNECTING..."} <span className="animate-pulse">_</span>
+                                            </div>
+                                        )}
                                     </div>
 
-                                    <button
-                                        onClick={handleCreatePlaylist}
-                                        disabled={isCreating}
-                                        className="w-full btn-primary flex items-center justify-center gap-2"
-                                    >
-                                        {isCreating ? "PROCESSING..." : "SAVE TO TAPE"}
-                                    </button>
+                                    {playlist && (
+                                        <button
+                                            onClick={handleCreatePlaylist}
+                                            disabled={isCreating}
+                                            className="w-full btn-primary flex items-center justify-center gap-2"
+                                        >
+                                            {isCreating ? "PROCESSING..." : "SAVE TO TAPE"}
+                                        </button>
+                                    )}
                                 </div>
                             </div>
 
                             {/* Right: Tracks */}
                             <div className="lg:col-span-8">
-                                <PlaylistColumn
-                                    playlist={playlist}
-                                    onSelect={(track) => onPlay(track, playlist.tracks)}
-                                    currentTrack={currentTrack}
-                                />
+                                {playlist ? (
+                                    <PlaylistColumn
+                                        playlist={playlist}
+                                        onSelect={(track) => onPlay(track, playlist.tracks)}
+                                        currentTrack={currentTrack}
+                                    />
+                                ) : (
+                                    <div className="h-full flex items-center justify-center border border-retro-neon/10 rounded-lg bg-black/10 backdrop-blur-sm">
+                                        <div className="text-center space-y-4">
+                                            <div className="w-16 h-16 border-4 border-retro-neon/20 border-t-retro-neon rounded-full animate-spin mx-auto" />
+                                            <p className="text-xs font-mono text-retro-neon/50 tracking-widest uppercase">
+                                                {streamingStatus.replace("...", "")}
+                                            </p>
+                                        </div>
+                                    </div>
+                                )}
                             </div>
                         </motion.div>
                     )}
@@ -243,6 +418,7 @@ export function Dashboard({ user, onSignOut, onPlay, currentTrack, playlist, set
                 history={history}
                 onSelect={setPlaylist}
                 onClear={handleClearHistory}
+                onDelete={handleDeleteHistoryItem}
             />
         </div>
     );
