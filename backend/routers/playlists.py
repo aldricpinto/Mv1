@@ -63,10 +63,11 @@ async def generate_playlist_stream(payload: PlaylistRequest, request: Request):
             yield f"event: error\ndata: No tracks found on YouTube Music\n\n"
             return
         
-        # 3. Curate
-        yield f"event: status\ndata: Curating the perfect mix...\n\n"
-        curated = await gemini.curate_playlist(mood, tracks)
-        curated = curated or tracks[: request.app.state.settings.playlist_max_tracks]
+        # 3. Curate (DISABLED to save API quota - using first N tracks)
+        # yield f"event: status\ndata: Curating the perfect mix...\n\n"
+        # curated = await gemini.curate_playlist(mood, tracks)
+        # curated = curated or tracks[: request.app.state.settings.playlist_max_tracks]
+        curated = tracks[: request.app.state.settings.playlist_max_tracks]
 
         # 4. Finalize
         yield f"event: status\ndata: Finalizing tape...\n\n"
@@ -121,8 +122,9 @@ async def generate_playlist(payload: PlaylistRequest, request: Request) -> Playl
     if not tracks:
         raise HTTPException(status_code=status.HTTP_502_BAD_GATEWAY, detail="No tracks returned from YouTube Music")
 
-    curated = await gemini.curate_playlist(mood, tracks)
-    curated = curated or tracks[: request.app.state.settings.playlist_max_tracks]
+    # curated = await gemini.curate_playlist(mood, tracks)
+    # curated = curated or tracks[: request.app.state.settings.playlist_max_tracks]
+    curated = tracks[: request.app.state.settings.playlist_max_tracks]
 
     transitions = agent.build_transitions(mood, curated)
     segments = agent.build_segments(mood)

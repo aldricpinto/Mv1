@@ -6,7 +6,7 @@
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocIiR5IBzNDuKvfuX-HeiLWuav6V37UBZjb4zBK4IoBe_vmXQ_Wb=s96-c",
     "joined_date": "2025-11-24T03:08:51.243375",
     "created_on": "2025-11-24T03:08:51.243375",
-    "updated_on": "2025-12-20T22:52:40.854243",
+    "updated_on": "2025-12-21T00:02:15.374696",
     "youtube_credentials": {
       "client_id": "353264128796-r09t9if4qsuufq0m04jbcg2ap4jila4a.apps.googleusercontent.com",
       "client_secret": "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",
@@ -22,6 +22,175 @@
       "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube"
     },
     "history": [
+      {
+        "prompt": "paul baloche mix",
+        "mood": {
+          "primary_mood": "Worship",
+          "secondary_mood": "Reflective",
+          "playlist_title": "Heart of Worship Journey",
+          "keywords": [
+            "Paul Baloche",
+            "worship",
+            "praise",
+            "spiritual",
+            "Christian",
+            "uplifting"
+          ],
+          "narrative": "Paul Baloche, I got you. Ready to dive deep into worship? I've got just the flow to lift your spirit and set your heart right.",
+          "recommended_genres": [
+            "Christian Worship",
+            "Contemporary Christian",
+            "Praise & Worship",
+            "Gospel"
+          ]
+        },
+        "transitions": [
+          "Easing in with 3 Hours of Soaking in His Presence - William Augusto to set the worship tone.",
+          "Let us lift the room with I Will Worship You - Paul Baloche.",
+          "Here comes your emotional anchor: 25 Yoruba Hymns - Wale Adebanjo.",
+          "We ramp the energy with My Worship - Phil Thompson before landing on Praise (Live) - Paul Baloche."
+        ],
+        "segments": [
+          {
+            "intro": "Starting soft and centered",
+            "focus": "Worship",
+            "transition": "Let\u2019s open the journey gently."
+          },
+          {
+            "intro": "Energy lift",
+            "focus": "Reflective",
+            "transition": "Time to move and glow."
+          },
+          {
+            "intro": "Anchor and reflection",
+            "focus": "introspective pulse",
+            "transition": "Holding space for resonance before we close."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "3 Hours of Soaking in His Presence",
+            "artist": "William Augusto",
+            "video_id": "WAVO1_7cABU",
+            "duration": "3:13:13",
+            "thumbnail_url": "https://lh3.googleusercontent.com/DxmS4R8P5pS-O0K2_AG2Y1v1b35hAWQSLuutVeqeil9Wv45DflOGokUQKheTYcKxP3CgPw_-KGd-T_w=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Spontaneous Instrumental Worship",
+            "artist": "Deeper Heaven Music",
+            "video_id": "uDqOLqAJPqI",
+            "duration": "1:00:26",
+            "thumbnail_url": "https://lh3.googleusercontent.com/MZ4ROgiIvj57cJKT4U7rXepEgD0n0EDrM7ryHUBXsCZe3vWK17xdhMch9HGDDUgEOEAQCXqNHEfEJuwy=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Soaking in His Presence Yeshua (Instrumental Worship)",
+            "artist": "William Augusto",
+            "video_id": "4HkQtb5irO0",
+            "duration": "3:22:54",
+            "thumbnail_url": "https://lh3.googleusercontent.com/U3fhydBPP9hB8nZXTduCnBEe-GqT_CLChd_OoHNR59mRCbEAz7xpBAuFq38KqIxyOpYO3jf_fr2PqErP=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Non-Stop Power Praise",
+            "artist": "Umahi Praise Team",
+            "video_id": "Uf9t7g3i-s0",
+            "duration": "52:34",
+            "thumbnail_url": "https://lh3.googleusercontent.com/QwAl3zwlifxEPeNDH84heIMC1dcZrPA0RHcaKIfgdHucxbNqKTEsGxV1F7sImFBsjTWnNjwbgusTjEJgKQ=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Old Songs Medley: Hold Onto God's Unchanging Hand / I'm a Soldier / He's the Great Consolator / I Get Joy When I Think About It / By & By / All the Way / Yes, Lord / Just Another Day / I Feel Like Going On (Live)",
+            "artist": "Carlton Pearson",
+            "video_id": "spoSMJp_z20",
+            "duration": "23:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/m0Dma72sY9SIZOczwpqrl7UTLOBJcakagMr59TgAjQQnAxaN0oUu3Jj0zlGLZYlr_JL5dhmw0yDL0PA=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "25 Yoruba Hymns",
+            "artist": "Wale Adebanjo",
+            "video_id": "AYSVJb0-abc",
+            "duration": "28:19",
+            "thumbnail_url": "https://lh3.googleusercontent.com/cJiUtKwM2FhmViX6UsPvs5WXj6YFf-Sjx6bZ_vrKx71XoYs1dl4HrKmvIGsmMzpXaWITjm1DBEh0csZ3=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Hosanna (Praise Is Rising) (Live)",
+            "artist": "Paul Baloche",
+            "video_id": "DagVTpMV5LA",
+            "duration": "6:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/WLLhFZH5ln5LPoklNtDE1KJP2ylrfAS4zKweRFvmMEw4973BrWV-nD7pEydkJMIzcStdeTepl-irlHvx=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "I Will Worship You",
+            "artist": "Paul Baloche",
+            "video_id": "BX4dGwWxoa4",
+            "duration": "5:31",
+            "thumbnail_url": "https://lh3.googleusercontent.com/7N0OlIU6xyUv0hfvBNIsmFxQ2Ytpns1SdhPb3dK-0JAmaZ29_DTRblbU4IJgq2VBQvk_h4tPrYu0htSG=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "ALONE WITH GOD (Spontaneous Worship)",
+            "artist": "Victor Thompson",
+            "video_id": "dr2oHT-k9hk",
+            "duration": "42:07",
+            "thumbnail_url": "https://lh3.googleusercontent.com/yAzpG7-I9lDDDNkSkdOVdyL09KtcJr5li-gxnY0DThuL9vz5HqZS8eA-ufOf5hT1zHlc6IGRSDOBq31Y=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Christian Dance Music Vol. 1 (Continuous DJ Mix)",
+            "artist": "FreeG & Emasound",
+            "video_id": "GKES9gHmUfc",
+            "duration": "1:08:51",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CHVcAaU3JxQL_rVx10OqZ8AOPt_UakZknq7IpdJxNWSvrI8k5aiQHrdDTIEQuRsHZGkGcphZGCyfge8z=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "24 Elders Worship, Pt. 1",
+            "artist": "Rev. Dr. David Nebife",
+            "video_id": "UrFpGdLWBJs",
+            "duration": "32:10",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ze-yAOZg5NhzYkZT_8Q6Ru1LSmy7ilz9MGxA-kUR46bXSfqTXmHyaep-Dq_hvZp3zOhL8qG_ThWkzvrD=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Attract Positive Energy, Peace & Success",
+            "artist": "Prabin Dangol",
+            "video_id": "LBxKXKcA8k8",
+            "duration": "1:00:29",
+            "thumbnail_url": "https://lh3.googleusercontent.com/iZrzybDIdS-uIavAxZCGrdXYAoQLy-_F9WAHSElhynZeS5lDJ_WKq1lP58Pg16LTt_G7QX5rGNoBUwX2=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "10,000 Reasons (Bless The Lord) (Live)",
+            "artist": "Matt Redman",
+            "video_id": "2KaHr_5U9Cg",
+            "duration": "5:43",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CS4CJ-Gd8yFT9bIenXDW9Xdt2z6J-TGapC-o8UweF2L_Efsq5D9ywsqszpZhOOQBtUgsQJ4K_D0AamjH=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "My Worship",
+            "artist": "Phil Thompson",
+            "video_id": "NAniUTMH9kk",
+            "duration": "6:18",
+            "thumbnail_url": "https://lh3.googleusercontent.com/xG_z_G3tAP_rpQtJ8VTp3WPiuU_lDg5SpbW2sPaxQiKS7-Oed6xj6achekdnXxWzK0ofqBnkbiTmPVdt=w60-h60-l90-rj",
+            "energy": null
+          },
+          {
+            "title": "Praise (Live)",
+            "artist": "Paul Baloche",
+            "video_id": "3S3hOWqRrK4",
+            "duration": "4:05",
+            "thumbnail_url": "https://lh3.googleusercontent.com/bvgoukZiwgzMBXVs3PrG4Oc4lxhiX8uWrRVfwQmU_8I4xlGBJWXQU7WYc8dYRyHGFjqKd1Cw20s1GpSb=w60-h60-l90-rj",
+            "energy": null
+          }
+        ],
+        "history": []
+      },
       {
         "prompt": "matt redman",
         "mood": {
