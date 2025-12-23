@@ -207,7 +207,7 @@ npm run lint
 ## 🎨 Features Deep Dive
 
 ### AI Mood Analysis
-The Muse Agent uses Google Gemini to analyze your natural language input and extract:
+The Agent uses Google Gemini to analyze your natural language input and extract:
 - Primary and secondary moods
 - Energy levels
 - Musical preferences
