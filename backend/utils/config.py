@@ -12,7 +12,7 @@ env_path = Path(__file__).parent.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
 
-@dataclass(slots=True)
+@dataclass
 class Settings:
     """Application configuration loaded from environment variables."""
 

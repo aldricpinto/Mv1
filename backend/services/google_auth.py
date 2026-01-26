@@ -12,7 +12,7 @@ from ..utils.config import Settings
 
 from google.oauth2.credentials import Credentials
 
-@dataclass(slots=True)
+@dataclass
 class GoogleProfile:
     user_id: str
     email: str
