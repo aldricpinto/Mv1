@@ -20,9 +20,9 @@ The Plug is an innovative music discovery application that leverages Google's Ge
 
 ## Just a gist
 
-Landing Page [!backend/assets/landing.png]
-Home Page[!backend/assets/home.png]
-Archive [!backend/assets/archive.png]
+![Landing Page] (backend/assets/landing.png)
+![Home Page] (backend/assets/home.png)
+![Archive] (backend/assets/archive.png)
 
 ---
 
